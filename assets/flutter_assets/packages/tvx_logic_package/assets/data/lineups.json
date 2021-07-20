@@ -1,0 +1,3446 @@
+[
+    {
+        "lineUpName": "3-1-4-2",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "dmz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.5028406417308013
+                }
+            },
+            {
+                "playerPosition": "hl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.34008022506413477
+                }
+            },
+            {
+                "playerPosition": "stl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.014830286933244119
+                }
+            },
+            {
+                "playerPosition": "hr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.34008022506413477
+                }
+            },
+            {
+                "playerPosition": "lm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.18032372793625567
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "str",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.014830286933244119
+                }
+            },
+            {
+                "playerPosition": "rm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.18032372793625567
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "3-3-2-2",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "dmz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.5028406417308013
+                }
+            },
+            {
+                "playerPosition": "dlm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.34008022506413477
+                }
+            },
+            {
+                "playerPosition": "stl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.014830286933244119
+                }
+            },
+            {
+                "playerPosition": "drm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.34008022506413477
+                }
+            },
+            {
+                "playerPosition": "hl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.18032372793625567
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "str",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.014830286933244119
+                }
+            },
+            {
+                "playerPosition": "hr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.18032372793625567
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "3-3-2-2 Double-10",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "dmz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.5028406417308013
+                }
+            },
+            {
+                "playerPosition": "lm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.34008022506413477
+                }
+            },
+            {
+                "playerPosition": "stl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.014830286933244119
+                }
+            },
+            {
+                "playerPosition": "rm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.34008022506413477
+                }
+            },
+            {
+                "playerPosition": "ohl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.18032372793625567
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "str",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.014830286933244119
+                }
+            },
+            {
+                "playerPosition": "ohr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.18032372793625567
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "3-3-3-1",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9827446182588813
+                }
+            },
+            {
+                "playerPosition": "dmr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.5552570661494061
+                }
+            },
+            {
+                "playerPosition": "ivz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.8131463579136691
+                }
+            },
+            {
+                "playerPosition": "IVL",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.8131463579136691
+                }
+            },
+            {
+                "playerPosition": "stz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.003573158914728682
+                }
+            },
+            {
+                "playerPosition": "dml",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.5552570661494061
+                }
+            },
+            {
+                "playerPosition": "ORM",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.2993480215827338
+                }
+            },
+            {
+                "playerPosition": "dmz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.5552570661494061
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.8131463579136691
+                }
+            },
+            {
+                "playerPosition": "zo",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.2993480215827338
+                }
+            },
+            {
+                "playerPosition": "OLM",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.2993480215827338
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "3-4-1-2",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "dml",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.5028406417308013
+                }
+            },
+            {
+                "playerPosition": "lm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.34008022506413477
+                }
+            },
+            {
+                "playerPosition": "str",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.014830286933244119
+                }
+            },
+            {
+                "playerPosition": "rm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.34008022506413477
+                }
+            },
+            {
+                "playerPosition": "zo",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.18032372793625567
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "stl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.014830286933244119
+                }
+            },
+            {
+                "playerPosition": "dmr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.5028406417308013
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "3-4-1-2 defensive Midfielder",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "dml",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.5028406417308013
+                }
+            },
+            {
+                "playerPosition": "dlm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.34008022506413477
+                }
+            },
+            {
+                "playerPosition": "str",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.014830286933244119
+                }
+            },
+            {
+                "playerPosition": "drm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.34008022506413477
+                }
+            },
+            {
+                "playerPosition": "zo",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.18032372793625567
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "stl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.014830286933244119
+                }
+            },
+            {
+                "playerPosition": "dmr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.5028406417308013
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "3-4-2-1",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "dml",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.5028406417308013
+                }
+            },
+            {
+                "playerPosition": "lm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.34008022506413477
+                }
+            },
+            {
+                "playerPosition": "orm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.17166335971920144
+                }
+            },
+            {
+                "playerPosition": "rm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.34008022506413477
+                }
+            },
+            {
+                "playerPosition": "olm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.17166335971920144
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "stz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.007911076661926291
+                }
+            },
+            {
+                "playerPosition": "dmr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.5028406417308013
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "3-4-2-1 defensive Midfielder",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "dml",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.5028406417308013
+                }
+            },
+            {
+                "playerPosition": "dlm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.34008022506413477
+                }
+            },
+            {
+                "playerPosition": "orm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.17166335971920144
+                }
+            },
+            {
+                "playerPosition": "drm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.34008022506413477
+                }
+            },
+            {
+                "playerPosition": "olm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.17166335971920144
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "stz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.007911076661926291
+                }
+            },
+            {
+                "playerPosition": "dmr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.5028406417308013
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "3-4-2-1 Double-10",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "dml",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.5028406417308013
+                }
+            },
+            {
+                "playerPosition": "dlm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.34008022506413477
+                }
+            },
+            {
+                "playerPosition": "ohr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.17166335971920144
+                }
+            },
+            {
+                "playerPosition": "drm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.34008022506413477
+                }
+            },
+            {
+                "playerPosition": "ohl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.17166335971920144
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "stz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.007911076661926291
+                }
+            },
+            {
+                "playerPosition": "dmr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.5028406417308013
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "3-4-3",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "dml",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.5028406417308013
+                }
+            },
+            {
+                "playerPosition": "lm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.34008022506413477
+                }
+            },
+            {
+                "playerPosition": "ra",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.17166335971920144
+                }
+            },
+            {
+                "playerPosition": "rm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.34008022506413477
+                }
+            },
+            {
+                "playerPosition": "la",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.17166335971920144
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "stz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.007911076661926291
+                }
+            },
+            {
+                "playerPosition": "dmr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.5028406417308013
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "3-4-3 defensive Midfielder",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "dml",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.5028406417308013
+                }
+            },
+            {
+                "playerPosition": "dlm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.34008022506413477
+                }
+            },
+            {
+                "playerPosition": "ra",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.17166335971920144
+                }
+            },
+            {
+                "playerPosition": "drm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.34008022506413477
+                }
+            },
+            {
+                "playerPosition": "la",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.17166335971920144
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "stz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.007911076661926291
+                }
+            },
+            {
+                "playerPosition": "dmr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.5028406417308013
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "3-4-3 Diamond",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "lm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.5028406417308013
+                }
+            },
+            {
+                "playerPosition": "zo",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.34008022506413477
+                }
+            },
+            {
+                "playerPosition": "ra",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.17166335971920144
+                }
+            },
+            {
+                "playerPosition": "dmz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "la",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.17166335971920144
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "stz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.007911076661926291
+                }
+            },
+            {
+                "playerPosition": "rm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.5028406417308013
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "3-5-1-1",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "mz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.5028406417308013
+                }
+            },
+            {
+                "playerPosition": "lm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.34008022506413477
+                }
+            },
+            {
+                "playerPosition": "rm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.34008022506413477
+                }
+            },
+            {
+                "playerPosition": "dml",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "hst",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.17166335971920144
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "stz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.007911076661926291
+                }
+            },
+            {
+                "playerPosition": "dmr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.6634511068470805
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "3-5-1-1 defensive Outliner",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "dlm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.5028406417308013
+                }
+            },
+            {
+                "playerPosition": "mz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.34008022506413477
+                }
+            },
+            {
+                "playerPosition": "drm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.5028406417308013
+                }
+            },
+            {
+                "playerPosition": "dml",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "hst",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.17166335971920144
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "stz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.007911076661926291
+                }
+            },
+            {
+                "playerPosition": "dmr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.6634511068470805
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "4-1-3-2",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "orm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.17166335971920144
+                }
+            },
+            {
+                "playerPosition": "zo",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.34008022506413477
+                }
+            },
+            {
+                "playerPosition": "dmz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.5012054673121967
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "olm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.17166335971920144
+                }
+            },
+            {
+                "playerPosition": "rv",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "lv",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "stl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.011030020460375904
+                }
+            },
+            {
+                "playerPosition": "str",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.011030020460375904
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "4-1-4-1",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "rm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.17166335971920144
+                }
+            },
+            {
+                "playerPosition": "hl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.34008022506413477
+                }
+            },
+            {
+                "playerPosition": "dmz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.5012054673121967
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "lm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.17166335971920144
+                }
+            },
+            {
+                "playerPosition": "rv",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "lv",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "stz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.011030020460375904
+                }
+            },
+            {
+                "playerPosition": "hr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.34008022506413477
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "4-1-4-1 central Double-10",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "ohr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.17166335971920144
+                }
+            },
+            {
+                "playerPosition": "lm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.34008022506413477
+                }
+            },
+            {
+                "playerPosition": "dmz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.5012054673121967
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "ohl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.17166335971920144
+                }
+            },
+            {
+                "playerPosition": "rv",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "lv",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "stz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.011030020460375904
+                }
+            },
+            {
+                "playerPosition": "rm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.34008022506413477
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "4-1-4-1 offensive Midfielder",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "orm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.17166335971920144
+                }
+            },
+            {
+                "playerPosition": "ohl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.34008022506413477
+                }
+            },
+            {
+                "playerPosition": "dmz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.5012054673121967
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "olm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.17166335971920144
+                }
+            },
+            {
+                "playerPosition": "rv",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "lv",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "stz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.011030020460375904
+                }
+            },
+            {
+                "playerPosition": "ohr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.34008022506413477
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "4-2-3-1",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "orm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.17166335971920144
+                }
+            },
+            {
+                "playerPosition": "zo",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.33682501673080145
+                }
+            },
+            {
+                "playerPosition": "dml",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.5012054673121967
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "olm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.17166335971920144
+                }
+            },
+            {
+                "playerPosition": "rv",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "lv",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "stz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.011030020460375904
+                }
+            },
+            {
+                "playerPosition": "dmr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.5012054673121967
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "4-3-1-2",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "dmr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.33682501673080145
+                }
+            },
+            {
+                "playerPosition": "dml",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.33682501673080145
+                }
+            },
+            {
+                "playerPosition": "dmz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.5000245080098712
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "zo",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.17166335971920144
+                }
+            },
+            {
+                "playerPosition": "rv",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "lv",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "stl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.011030020460375904
+                }
+            },
+            {
+                "playerPosition": "str",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.011030020460375904
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "4-3-2-1",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "rm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.33682501673080145
+                }
+            },
+            {
+                "playerPosition": "lm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.33682501673080145
+                }
+            },
+            {
+                "playerPosition": "mz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.5000245080098712
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "olm",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.17166335971920144
+                }
+            },
+            {
+                "playerPosition": "rv",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "lv",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "stz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.011030020460375904
+                }
+            },
+            {
+                "playerPosition": "orm",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.17166335971920144
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "4-3-3",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "hr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.33682501673080145
+                }
+            },
+            {
+                "playerPosition": "hl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.33682501673080145
+                }
+            },
+            {
+                "playerPosition": "mz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.5000245080098712
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "la",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.17166335971920144
+                }
+            },
+            {
+                "playerPosition": "rv",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "lv",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "stz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.011030020460375904
+                }
+            },
+            {
+                "playerPosition": "ra",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.17166335971920144
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "4-3-3 Double-6",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "dmr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.5000245080098712
+                }
+            },
+            {
+                "playerPosition": "zo",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.33682501673080145
+                }
+            },
+            {
+                "playerPosition": "dml",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.5000245080098712
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "la",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.17166335971920144
+                }
+            },
+            {
+                "playerPosition": "rv",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "lv",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "stz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.011030020460375904
+                }
+            },
+            {
+                "playerPosition": "ra",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.17166335971920144
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "4-3-3 with 6",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "hr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.33682501673080145
+                }
+            },
+            {
+                "playerPosition": "hl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.33682501673080145
+                }
+            },
+            {
+                "playerPosition": "dmz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.5000245080098712
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "la",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.17166335971920144
+                }
+            },
+            {
+                "playerPosition": "rv",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "lv",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "stz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.011030020460375904
+                }
+            },
+            {
+                "playerPosition": "ra",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.17166335971920144
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "4-4-1-1",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "rm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.33682501673080145
+                }
+            },
+            {
+                "playerPosition": "lm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.33682501673080145
+                }
+            },
+            {
+                "playerPosition": "dml",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.5000245080098712
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "hst",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.17166335971920144
+                }
+            },
+            {
+                "playerPosition": "rv",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "lv",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "stz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.011030020460375904
+                }
+            },
+            {
+                "playerPosition": "dmr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.5000245080098712
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "4-4-1-1 offensive Outliner",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "orm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.33682501673080145
+                }
+            },
+            {
+                "playerPosition": "olm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.33682501673080145
+                }
+            },
+            {
+                "playerPosition": "dml",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.5000245080098712
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "hst",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.17166335971920144
+                }
+            },
+            {
+                "playerPosition": "rv",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "lv",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "stz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.011030020460375904
+                }
+            },
+            {
+                "playerPosition": "dmr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.5000245080098712
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "4-4-2 Diamond",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "str",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.011030020460375904
+                }
+            },
+            {
+                "playerPosition": "hl",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.33682501673080145
+                }
+            },
+            {
+                "playerPosition": "dmz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.5019019304904914
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "zo",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.17672028801377507
+                }
+            },
+            {
+                "playerPosition": "rv",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "lv",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "stl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.011030020460375904
+                }
+            },
+            {
+                "playerPosition": "hr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.33682501673080145
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "5-3-1-1",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "lm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.33682501673080145
+                }
+            },
+            {
+                "playerPosition": "mz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.5019019304904914
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "hst",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.17672028801377507
+                }
+            },
+            {
+                "playerPosition": "rv",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "lv",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "stz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.008486415809213114
+                }
+            },
+            {
+                "playerPosition": "rm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.33682501673080145
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "5-3-1-1 with 6",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "lm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.33682501673080145
+                }
+            },
+            {
+                "playerPosition": "dmz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.5019019304904914
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "hst",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.17672028801377507
+                }
+            },
+            {
+                "playerPosition": "rv",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "lv",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "stz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.008486415809213114
+                }
+            },
+            {
+                "playerPosition": "rm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.33682501673080145
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "5-4-1 Diamond",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "hl",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.33682501673080145
+                }
+            },
+            {
+                "playerPosition": "dmz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.5019019304904914
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "zo",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.17672028801377507
+                }
+            },
+            {
+                "playerPosition": "rv",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "lv",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "stz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.008486415809213114
+                }
+            },
+            {
+                "playerPosition": "hr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.33682501673080145
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "5-3-2",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "rm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.24339296731219676
+                }
+            },
+            {
+                "playerPosition": "lm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.24339296731219676
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "str",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.008486415809213114
+                }
+            },
+            {
+                "playerPosition": "rv",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "lv",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "stl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.008486415809213114
+                }
+            },
+            {
+                "playerPosition": "mz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.44494335490909603
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "5-3-2 Double-6",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "zo",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.24339296731219676
+                }
+            },
+            {
+                "playerPosition": "dmr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.44494335490909603
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "str",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.008486415809213114
+                }
+            },
+            {
+                "playerPosition": "rv",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "lv",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "stl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.008486415809213114
+                }
+            },
+            {
+                "playerPosition": "dml",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.44494335490909603
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "5-3-2 with 6",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "hl",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.24339296731219676
+                }
+            },
+            {
+                "playerPosition": "hr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.24339296731219676
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "str",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.008486415809213114
+                }
+            },
+            {
+                "playerPosition": "rv",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "lv",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "stl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.008486415809213114
+                }
+            },
+            {
+                "playerPosition": "dmz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.44494335490909603
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "5-4-1",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "lm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.24339296731219676
+                }
+            },
+            {
+                "playerPosition": "rm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.24339296731219676
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "dmr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.44494335490909603
+                }
+            },
+            {
+                "playerPosition": "rv",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "lv",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "stz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.010121590227817764
+                }
+            },
+            {
+                "playerPosition": "dml",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.44494335490909603
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "5-4-1 offensive Outliner",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "ivz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "olm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.24339296731219676
+                }
+            },
+            {
+                "playerPosition": "orm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.24339296731219676
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.8295586641152194
+                }
+            },
+            {
+                "playerPosition": "dmr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.44494335490909603
+                }
+            },
+            {
+                "playerPosition": "rv",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "lv",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "stz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.010121590227817764
+                }
+            },
+            {
+                "playerPosition": "dml",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.44494335490909603
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "4-4-2 central Double-6",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9827446182588813
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.8192782619834365
+                }
+            },
+            {
+                "playerPosition": "dmr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.4014446872734371
+                }
+            },
+            {
+                "playerPosition": "LV",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6479937416345993
+                }
+            },
+            {
+                "playerPosition": "stl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.003573158914728682
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.8192782619834365
+                }
+            },
+            {
+                "playerPosition": "rv",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6479937416345993
+                }
+            },
+            {
+                "playerPosition": "str",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.003573158914728682
+                }
+            },
+            {
+                "playerPosition": "rm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.19232982073643415
+                }
+            },
+            {
+                "playerPosition": "dml",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.4014446872734371
+                }
+            },
+            {
+                "playerPosition": "lm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.19232982073643415
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "4-4-2 Double-6",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9827446182588813
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.8192782619834365
+                }
+            },
+            {
+                "playerPosition": "dmr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.4014446872734371
+                }
+            },
+            {
+                "playerPosition": "LV",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6479937416345993
+                }
+            },
+            {
+                "playerPosition": "stl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.003573158914728682
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.8192782619834365
+                }
+            },
+            {
+                "playerPosition": "rv",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6479937416345993
+                }
+            },
+            {
+                "playerPosition": "str",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.003573158914728682
+                }
+            },
+            {
+                "playerPosition": "rm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.19232982073643415
+                }
+            },
+            {
+                "playerPosition": "dml",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.4014446872734371
+                }
+            },
+            {
+                "playerPosition": "lm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.19232982073643415
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "4-4-2 Double-6 offensive Outliner",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9827446182588813
+                }
+            },
+            {
+                "playerPosition": "str",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.007100896317829457
+                }
+            },
+            {
+                "playerPosition": "dmr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.37983918824242924
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.8147058298128939
+                }
+            },
+            {
+                "playerPosition": "stl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.007100896317829457
+                }
+            },
+            {
+                "playerPosition": "olm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.22003694282945738
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.8147058298128939
+                }
+            },
+            {
+                "playerPosition": "orm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.22003694282945738
+                }
+            },
+            {
+                "playerPosition": "rv",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6345630254517316
+                }
+            },
+            {
+                "playerPosition": "lv",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6345630254517316
+                }
+            },
+            {
+                "playerPosition": "dml",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.37983918824242924
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "4-5-1",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9827446182588813
+                }
+            },
+            {
+                "playerPosition": "mz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.22003694282945738
+                }
+            },
+            {
+                "playerPosition": "dmr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.43024192564553004
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.8147058298128939
+                }
+            },
+            {
+                "playerPosition": "stz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.007100896317829457
+                }
+            },
+            {
+                "playerPosition": "lm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.22003694282945738
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.8147058298128939
+                }
+            },
+            {
+                "playerPosition": "rm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.22003694282945738
+                }
+            },
+            {
+                "playerPosition": "rv",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6345630254517316
+                }
+            },
+            {
+                "playerPosition": "lv",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6345630254517316
+                }
+            },
+            {
+                "playerPosition": "dml",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.43024192564553004
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "4-5-1 offensive Outliner",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9846826027550053
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.8248640186687859
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.8248640186687859
+                }
+            },
+            {
+                "playerPosition": "rv",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6597265428935921
+                }
+            },
+            {
+                "playerPosition": "stz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.008690649224806201
+                }
+            },
+            {
+                "playerPosition": "hl",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.40447453084044394
+                }
+            },
+            {
+                "playerPosition": "orm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.20683475022307732
+                }
+            },
+            {
+                "playerPosition": "hr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.40447453084044394
+                }
+            },
+            {
+                "playerPosition": "lv",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6597265428935921
+                }
+            },
+            {
+                "playerPosition": "olm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.20683475022307732
+                }
+            },
+            {
+                "playerPosition": "dmz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.40447453084044394
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "3-5-2",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9827446182588813
+                }
+            },
+            {
+                "playerPosition": "ivz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.8147058298128939
+                }
+            },
+            {
+                "playerPosition": "dmr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.524476421769561
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.8147058298128939
+                }
+            },
+            {
+                "playerPosition": "stl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.003573158914728682
+                }
+            },
+            {
+                "playerPosition": "lm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.30385477228682173
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.8147058298128939
+                }
+            },
+            {
+                "playerPosition": "str",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.003573158914728682
+                }
+            },
+            {
+                "playerPosition": "rm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.30385477228682173
+                }
+            },
+            {
+                "playerPosition": "mz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.30385477228682173
+                }
+            },
+            {
+                "playerPosition": "dml",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.524476421769561
+                }
+            }
+        ]
+    },
+    {
+        "lineUpName": "3-5-2 attacking wingers",
+        "players": [
+            {
+                "playerPosition": "tw",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.9890079941860465
+                }
+            },
+            {
+                "playerPosition": "str",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.01033355728208133
+                }
+            },
+            {
+                "playerPosition": "orm",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.16988582099436736
+                }
+            },
+            {
+                "playerPosition": "olm",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.16988582099436736
+                }
+            },
+            {
+                "playerPosition": "hl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.33140471634320456
+                }
+            },
+            {
+                "playerPosition": "ivz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.8279537707043667
+                }
+            },
+            {
+                "playerPosition": "hr",
+                "coordinates": {
+                    "x": 0.51111111111,
+                    "y": 0.33140471634320456
+                }
+            },
+            {
+                "playerPosition": "ivr",
+                "coordinates": {
+                    "x": 0.9629629629700001,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "ivl",
+                "coordinates": {
+                    "x": 0.03703703703,
+                    "y": 0.6634511068470805
+                }
+            },
+            {
+                "playerPosition": "stl",
+                "coordinates": {
+                    "x": 0.48888888889,
+                    "y": 0.01033355728208133
+                }
+            },
+            {
+                "playerPosition": "dmz",
+                "coordinates": {
+                    "x": 0.5,
+                    "y": 0.4950887037463053
+                }
+            }
+        ]
+    }
+]

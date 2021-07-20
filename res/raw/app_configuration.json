@@ -1,0 +1,4909 @@
+{
+  "resourceType": "configuration",
+  "uiConfigurations": {
+    "uiSchema": "productK",
+    "TABLET": {
+      "onVideo": {
+        "unfocusColor": "#ffffffff",
+        "progressBar": {
+          "foregroundColor": "#ffe6005a",
+          "backgroundColor": "#ff3c3c3c",
+          "cursorColor": "#FFEBEBEB",
+          "bufferColor":"#4de6005a"
+        },
+        "button": {
+          "foregroundColor": "#FFEBEBEB",
+          "backgroundColor": "#00000000",
+          "foregroundColorSelected": "#ff000000",
+          "backgroundColorSelected": "#FFEBEBEB"
+        },
+        "dimmerTransparencyLevel": 0.5
+      },
+      "onFrame": {
+        "unfocusColor": "#ffEBEBEB",
+        "focusColor": "#ffC8C7C5",
+        "recordButton":{
+          "foregroundColor":"#ffebebeb"
+        },
+        "progressBar": {
+          "foregroundColor": "#fff4f4f4",
+          "backgroundColor": "#ff636363",
+          "cursorColor": "#FFEBEBEB"
+        },
+        "background": {
+          "colorFrom": "#ff5b0023",
+          "colorTo": "#FF000000",
+          "orientation": "vertical",
+          "linear-gradient": {
+            "color": [
+              "#ff5b0023",
+              "#FF000000"
+            ],
+            "orientation": "vertical"
+          },
+          "image": [{
+            "resolution": "1024*768",
+            "url": "http://d325w5p4v9mz6w.cloudfront.net/prod/CD/Resources/background_landscape.jpg"
+          }]
+        },
+        "button": {
+          "focus": {
+            "foregroundColor": "#ffebebeb",
+            "backgroundColor": "#ff821939"
+          },
+          "unfocus": {
+            "foregroundColor": "#ffffffff",
+            "backgroundColor": "#736B839A"
+          },
+          "foregroundColor": "#FFEBEBEB",
+          "backgroundColor": "#ff000000",
+          "foregroundColorSelected": "#FFEBEBEB",
+          "backgroundColorSelected": "#FFEBEBEB",
+          "cornerRadius": 4
+        }
+      },
+      "onStatusBar": {
+        "unfocusColor": "#B3ebebeb",
+        "focusColor": "#ffebebeb",
+        "background": {
+          "colorFrom": "#00000000",
+          "colorTo": "#00000000",
+          "orientation": "vertical"
+        }
+      },
+      "onPopup": {
+        "unfocusColor": "#90EBEBEB",
+        "pressColor": "#FFEBEBEB",
+        "background": {
+          "colorFrom": "#FF3D4853",
+          "colorTo": "#FF3D4853",
+          "orientation": "horizontal"
+        }
+      },
+      "onSearch": {
+        "searchInput": {
+          "background": {
+            "linear-gradient": {
+              "color": [
+                "#F4000000",
+                "#F4000000"
+              ],
+              "orientation": "vertical"
+            }
+          }
+        }
+      },
+      "onActionMenu": {
+        "background": {
+          "image": [{
+            "docking-point": "TOP_LEFT"
+          }]
+        }
+      },
+      "logo": {
+        "url": "http://d325w5p4v9mz6w.cloudfront.net/prod/CD/Logo/application_logo.png",
+        "height": 28.1,
+        "width": 65,
+        "positionX": 51,
+        "positionY": 18,
+        "display": "YES",
+        "usePosition": false
+      },
+      "popupMenu": {
+        "foregroundColor": "#FFEBEBEB",
+        "backgroundColor": "#FFEBEBEB"
+      },
+      "textCase": {
+        "mainMenuCase": "normal",
+        "backLabelCase": "normal"
+      },
+      "onDropDown": {
+        "unfocus": {
+          "foregroundColor": "#B3EBEBEB",
+          "backgroundColor": "#736b839a"
+        },
+        "focus": {
+          "foregroundColor": "#FFEBEBEB",
+          "backgroundColor": "#ff821939"
+        },
+        "icon": {
+          "unfocus": {
+            "foregroundColor": "#FFEBEBEB"
+          },
+          "focus": {
+            "foregroundColor": "#FFEBEBEB"
+          }
+        },
+        "borderWidth": 1,
+        "borderColor": "#73ebebeb",
+        "cornerRadius": 2
+      },
+      "pinPopUp": {
+        "backgroundColor": "#ff3D4853",
+        "keyboardBackGroundColor": "#E6D2D5DB"
+      },
+      "swimlanes": {
+        "maxNoOFItemsPerSwimlane": 20,
+        "backgroundColor": "#ff2D333B"
+      },
+      "settings": {
+        "headerview": {
+          "backgroundColor": "#00000000",
+          "background": {
+            "colorFrom": "#00000000",
+            "colorTo": "#00000000",
+            "orientation": "vertical"
+          },
+          "titleColor": "#ffebebeb",
+          "backTitleColor": "#ffebebeb",
+          "menuTitleColor": "#ffebebeb",
+          "menuVerticalBorderColor": "#4D979797",
+          "borderColor": "#33979797"
+        },
+        "menu": {
+          "menuItem": {
+            "unfocusColor": "#B3ebebeb",
+            "focusColor": "#ffebebeb"
+          },
+          "focus": {
+            "foregroundColor": "#ffebebeb",
+            "backgroundColor": "#736B839A"
+          },
+          "unfocus": {
+            "foregroundColor": "#ffebebeb",
+            "backgroundColor": "#00000000"
+          },
+          "backgroundColor": "#b32d333b",
+          "background": {
+            "colorFrom": "#B32d333b",
+            "colorTo": "#B32d333b",
+            "orientation": "vertical"
+          },
+          "verticalBorderColor": "#4D979797",
+          "headerview": {
+            "background": {
+              "colorFrom": "#00000000",
+              "colorTo": "#00000000",
+              "orientation": "vertical"
+            }
+          }
+        },
+        "submenu": {
+          "button": {
+            "backgroundColor": "#736B839A"
+          },
+          "background": {
+            "colorFrom": "#b32d333b",
+            "colorTo": "#b32d333b",
+            "orientation": "vertical"
+          }
+        }
+      },
+      "defaultPoster": {
+        "foregroundColor": "#FFEBEBEB",
+        "background": {
+          "colorFrom": "#ff821939",
+          "colorTo": "#ff821939",
+          "orientation": "vertical"
+        }
+      },
+      "actionMenuButtons": {
+        "button": {
+          "foregroundColor": "#ffebebeb",
+          "backgroundColor": "#736b839a",
+          "foregroundColorSelected": "#ccebebeb",
+          "backgroundColorSelected": "#ff821939"
+        },
+        "cornerRadius": 4
+      },
+      "showHeroBannerIndicator": true,
+      "font_config": {
+        "fonts": [{
+          "languages": [
+            "en",
+            "ms",
+            "ta",
+            "zh"
+          ],
+          "font-family": "Roboto",
+          "weights": {
+            "Icons": "https://vod-poster.astro.com.my/prod/CD/Icons/IVP_Astro_Icons-Regular.ttf"
+          }
+        }]
+      },
+      "buttonIcon":{
+        "iconColor":"#ffebebeb"
+      },
+      "onChannelPage" : {
+        "swimlaneLogo" : true,
+        "showChannelNameOnStatusBar" : true,
+        "showChannelLogoOnFullContent" : true
+      },
+      "navigationLine": {
+        "foregroundColor": "#00000000",
+        "backgroundColor": "#00000000",
+        "height": 1
+      }
+    },
+    "PHONE": {
+      "onFrame": {
+        "background": {
+          "colorFrom": "#ff5b0023",
+          "colorTo": "#FF000000",
+          "orientation": "vertical",
+          "linear-gradient": {
+            "color": [
+              "#ff5b0023",
+              "#FF000000"
+            ],
+            "orientation": "vertical"
+          },
+          "image": [{
+            "resolution": "640*960",
+            "url": "http://d325w5p4v9mz6w.cloudfront.net/prod/CD/Resources/background_portrait.jpg"
+          }]
+        }
+      },
+      "hamburgerMenu": {
+        "hamburgerBG": {
+          "background": {
+            "colorFrom": "#ff2d333b",
+            "colorTo": "#ff2d333b",
+            "orientation": "vertical"
+          }
+        },
+        "onHamburgerLogo": {
+          "url": "http://d325w5p4v9mz6w.cloudfront.net/prod/CD/Logo/application_logo.png",
+          "width": 72,
+          "height": 28,
+          "positionX": 24,
+          "positionY": 36,
+          "leftMargin": 33,
+          "display": "YES",
+          "usePosition": true
+        },
+        "onHamburgerLogoBG": {
+          "background": {
+            "colorFrom": "#ff2d333b",
+            "colorTo": "#ff2d333b",
+            "orientation": "horizontal"
+          }
+        },
+        "onHamburgerItem": {
+          "unfocusColor": "#ffc8c7c5",
+          "focusColor": "#ffebebeb",
+          "background": {
+            "colorFrom": "#736B839A",
+            "colorTo": "#736B839A",
+            "orientation": "vertical"
+          }
+        },
+        "onHamburgerSelectedItem": {
+          "unfocusColor": "#ff9F9F9F",
+          "background": {
+            "colorFrom": "#ff1f212d",
+            "colorTo": "#ff1f212d",
+            "orientation": "horizontal"
+          },
+          "focusColor": "#ffebebeb",
+          "focusBackgroundColor": "#736B839A",
+          "iconBackgroundColor": "#ff1f212d"
+        },
+        "onHamburgerSettingsHeaderBG": {
+          "background": {
+            "colorFrom": "#ff1f2329",
+            "colorTo": "#ff1f2329",
+            "orientation": "horizontal"
+          }
+        },
+        "foregroundColor": "#ffebebeb"
+      },
+      "settings": {
+        "submenu": {
+          "button": {
+            "backgroundColor": "#736B839A"
+          }
+        }
+      },
+      "onChannelPage" : {
+        "swimlaneLogo" : true,
+        "showChannelNameOnStatusBar" : true,
+        "showChannelLogoOnFullContent" : true
+      },
+      "navigationLine": {
+        "foregroundColor": "#00000000",
+        "backgroundColor": "#00000000",
+        "height": 1
+      }
+    }
+  },
+  "iaConfiguration": {
+    "TABLET": {
+      "hubMenuItems": [
+        {
+          "id": "hubHome",
+          "title": {
+            "dictionaryId": "DIC_MAIN_HUB_HOME"
+          }
+        },
+        {
+          "id": "hubCatchUp",
+          "title": {
+            "dictionaryId": "DIC_MAIN_HUB_CATCHUP"
+          }
+        },
+        {
+          "id": "hubBoxSets",
+          "title": {
+            "dictionaryId": "DIC_MAIN_HUB_BOXSETS"
+          }
+        },
+        {
+          "id": "hubMovies",
+          "title": {
+            "dictionaryId": "DIC_MAIN_HUB_MOVIES"
+          }
+        },
+        {
+          "id": "hubKids",
+          "title": {
+            "dictionaryId": "DIC_MAIN_HUB_KIDS"
+          }
+        },
+        {
+          "id": "hubStore",
+          "title": {
+            "dictionaryId": "DIC_MAIN_HUB_STORE"
+          },
+          "excludeDeviceType": "ios"
+        },
+        {
+          "id": "hubSports",
+          "title": {
+            "dictionaryId": "DIC_MAIN_HUB_SPORTS"
+          }
+        },
+        {
+          "id": "hubLibrary",
+          "title": {
+            "dictionaryId": "DIC_MAIN_HUB_LIBRARY"
+          }
+        }
+      ],
+      "swimlaneConfig": {
+        "hubHome": {
+          "items": [
+            {
+              "displayType": "heroBanner",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Home:Featured"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "FAVORITE_CHANNELS"
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "id": "RECENTLY_VIEWED_CHANNELS"
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "ON_AIR_BY_EVENT"
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "FOR_YOU",
+              "filter": {
+                "duration": 10800
+              }
+            },
+            {
+              "title": {
+                "dictionaryId": "DIC_SWIMLANE_MY_GENRE"
+              },
+              "displayType": "swimlane",
+              "contents": [
+                {
+                  "predefinedItems": [
+                    {
+                      "id": "ALL_CHANNELS",
+                      "title": {
+                        "dictionaryId": "DIC_MY_GENRE_ALL_CHANNELS"
+                      },
+                      "posterUrl": "http://linear-poster.astro.com.my/prod/Genre/v4/AllChannels.png",
+                      "type": "GENRE"
+                    },
+                    {
+                      "id": "HD",
+                      "title": {
+                        "dictionaryId": "DIC_MY_GENRE_HD"
+                      },
+                      "posterUrl": "http://linear-poster.astro.com.my/prod/Genre/v4/HDChannels.png",
+                      "type": "GENRE"
+                    },
+                    {
+                      "id": "MOVIES",
+                      "title": {
+                        "dictionaryId": "DIC_MY_GENRE_MOVIES"
+                      },
+                      "posterUrl": "http://linear-poster.astro.com.my/prod/Genre/v4/Movies.png",
+                      "type": "GENRE"
+                    },
+                    {
+                      "id": "SPORTS",
+                      "title": {
+                        "dictionaryId": "DIC_MY_GENRE_SPORTS"
+                      },
+                      "posterUrl": "http://linear-poster.astro.com.my/prod/Genre/v4/Sports.png",
+                      "type": "GENRE"
+                    },
+                    {
+                      "id": "NEWS",
+                      "title": {
+                        "dictionaryId": "DIC_MY_GENRE_NEWS"
+                      },
+                      "posterUrl": "http://linear-poster.astro.com.my/prod/Genre/v4/News.png",
+                      "type": "GENRE"
+                    },
+                    {
+                      "id": "MALAY",
+                      "title": {
+                        "dictionaryId": "DIC_MY_GENRE_MALAY"
+                      },
+                      "posterUrl": "http://d33ewh538fnjf0.cloudfront.net/prod/Genre/v2/BahasaMalaysia.png",
+                      "type": "GENRE"
+                    },
+                    {
+                      "id": "CHINESE",
+                      "title": {
+                        "dictionaryId": "DIC_MY_GENRE_CHINESE"
+                      },
+                      "posterUrl": "http://linear-poster.astro.com.my/prod/Genre/v4/Chinese.png",
+                      "type": "GENRE"
+                    },
+                    {
+                      "id": "INDIANS",
+                      "title": {
+                        "dictionaryId": "DIC_MY_GENRE_INDIAN"
+                      },
+                      "posterUrl": "http://linear-poster.astro.com.my/prod/Genre/v4/Indian.png",
+                      "type": "GENRE"
+                    },
+                    {
+                      "id": "KIDS",
+                      "title": {
+                        "dictionaryId": "DIC_MY_GENRE_KIDS"
+                      },
+                      "posterUrl": "http://linear-poster.astro.com.my/prod/Genre/v4/Kids.png",
+                      "type": "GENRE"
+                    },
+                    {
+                      "id": "EDUCATION",
+                      "title": {
+                        "dictionaryId": "DIC_MY_GENRE_EDUCATION"
+                      },
+                      "posterUrl": "http://linear-poster.astro.com.my/prod/Genre/v4/Education.png",
+                      "type": "GENRE"
+                    },
+                    {
+                      "id": "ENTERTAINMENT",
+                      "title": {
+                        "dictionaryId": "DIC_MY_GENRE_ENTERTAINMENT"
+                      },
+                      "posterUrl": "http://linear-poster.astro.com.my/prod/Genre/v4/Entertainment.png",
+                      "type": "GENRE"
+                    },
+                    {
+                      "id": "DOCUMENTARIES",
+                      "title": {
+                        "dictionaryId": "DIC_MY_GENRE_DOCUMENTARY"
+                      },
+                      "posterUrl": "http://linear-poster.astro.com.my/prod/Genre/v4/Documentary.png",
+                      "type": "GENRE"
+                    },
+                    {
+                      "id": "LIFESTYLES",
+                      "title": {
+                        "dictionaryId": "DIC_MY_GENRE_LIFESTYLE"
+                      },
+                      "posterUrl": "http://linear-poster.astro.com.my/prod/Genre/v4/Lifestyle.png",
+                      "type": "GENRE"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Home:LinearEvents"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Home:Thematic1"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "WATCHLIST"
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "onClick": "play",
+              "showPlayButton": true,
+              "id": "RECENTLY_VIEWED",
+              "filter": {
+                "source": "vod"
+              }
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "RENTALS",
+              "isSortOptionHidden": true
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "VOD_FOR_YOU"
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "isSortOptionHidden": false,
+              "contents": [
+                {
+                  "classification": "node:IVP:Home:OnDemandRecentlyAdded"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "isSortOptionHidden": false,
+              "contents": [
+                {
+                  "classification": "node:IVP:Home:OnDemandLastChance"
+                }
+              ]
+            }
+          ]
+        },
+        "hubCatchUp": {
+          "items": [
+            {
+              "displayType": "heroBanner",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Featured"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "SL_AGG_RECOMMENDATION_TOPLIST",
+              "title": {
+                "dictionaryId": "DIC_POPULAR"
+              },
+              "filter": {
+                "limit": 20,
+                "isPersonal": false,
+                "topLevelFilterTag": "CatchUp",
+                "isAdult": true,
+                "isErotic": true,
+                "source": "vod"
+              }
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Thematic1"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Thematic2"
+                }
+              ]
+            },
+            {
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Thematic3"
+                }
+              ],
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Thematic4"
+                }
+              ],
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Thematic5"
+                }
+              ],
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Thematic6"
+                }
+              ],
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Thematic7"
+                }
+              ],
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Thematic8"
+                }
+              ],
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Thematic9"
+                }
+              ],
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Thematic10"
+                }
+              ],
+              "displayType": "swimlane"
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:HBOGo"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:English"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Malay"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Chinese"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Indian"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Korean"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Anime"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:FactualEntertainment"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:News"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:International"
+                }
+              ]
+            },
+            {
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:GoShop"
+                }
+              ],
+              "displayType": "swimlane"
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Channels"
+                }
+              ],
+              "collapsable": "true"
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:All"
+                }
+              ]
+            }
+          ]
+        },
+        "channelPageForOnAir": {
+          "items": [
+            {
+              "id": "UPNEXT_EVENTS",
+              "filter": {
+                "seeAllCount": 10
+              }
+            },
+            {
+              "id": "FUTURE_EVENTS",
+              "filter": {
+                "collapse": true,
+                "seeAllCount": 10,
+                "noOfDays": 10
+              }
+            },
+            {
+              "id": "JUST_MISSED_EVENTS",
+              "filter": {
+                "seeAllCount": 10
+              }
+            }
+          ]
+        },
+        "channelPageForOnAirCatchUp": {
+          "items": [
+            {
+              "id": "CATCHUP_EVENTS",
+              "filter": {
+                "collapse": true,
+                "seeAllCount": 10,
+                "noOfDays": 10
+              }
+            }
+          ]
+        },
+        "channelPageForPlayer": {
+          "items": [
+            {
+              "id": "UPNEXT_EVENTS",
+              "filter": {
+                "seeAllCount": 10
+              }
+            },
+            {
+              "id": "FUTURE_EVENTS",
+              "filter": {
+                "collapse": true,
+                "seeAllCount": 10,
+                "noOfDays": 10
+              }
+            }
+          ]
+        },
+        "channelPageForGuideFuture": {
+          "items": [
+            {
+              "id": "UPNEXT_EVENTS",
+              "filter": {
+                "seeAllCount": 10
+              }
+            },
+            {
+              "id": "FUTURE_EVENTS",
+              "filter": {
+                "collapse": true,
+                "seeAllCount": 10,
+                "noOfDays": 10
+              }
+            }
+          ]
+        },
+        "channelPageForGuideCatchUp": {
+          "items": [
+            {
+              "id": "UPNEXT_EVENTS",
+              "filter": {
+                "seeAllCount": 10
+              }
+            },
+            {
+              "id": "FUTURE_EVENTS",
+              "filter": {
+                "collapse": true,
+                "seeAllCount": 10,
+                "noOfDays": 10
+              }
+            }
+          ]
+        },
+        "hubMovies": {
+          "items": [
+            {
+              "displayType": "heroBanner",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Featured"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "2:3",
+              "id": "SL_AGG_RECOMMENDATION_TOPLIST",
+              "title": {
+                "dictionaryId": "DIC_POPULAR"
+              },
+              "filter": {
+                "limit": 20,
+                "isPersonal": false,
+                "topLevelFilterTag": "Movies",
+                "isAdult": true,
+                "isErotic": true,
+                "source": "vod"
+              }
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "2:3",
+              "id": "SL_AGG_RECOMMENDATION_GROUPINGS_BECAUSE_YOU_WATCHED_CONTENT",
+              "title": {
+                "dictionaryId": "DIC_BECAUSE_YOU_WATCHED"
+              },
+              "filter": {
+                "limit": 1,
+                "recommendationLimit": 20,
+                "topLevelFilterTag": "Movies",
+                "isPersonal": false,
+                "isAdult": true,
+                "isErotic": true,
+                "recommendationSource": "vod"
+              }
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Thematic1"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Thematic2"
+                }
+              ]
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Thematic3"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Thematic4"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Thematic5"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Thematic6"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Thematic7"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Thematic8"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Thematic9"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Thematic10"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:HBOGo"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Action"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Comedy"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Documentary"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Drama"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Family"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Horror"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Kids"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Romance"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:English"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Malay"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Chinese"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Indian"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Korean"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:WorldCinema"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Channels"
+                }
+              ],
+              "collapsable": "true"
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Stores"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:All"
+                }
+              ]
+            }
+          ]
+        },
+        "hubBoxSets": {
+          "items": [
+            {
+              "displayType": "heroBanner",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Featured"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "SL_AGG_RECOMMENDATION_TOPLIST",
+              "title": {
+                "dictionaryId": "DIC_POPULAR"
+              },
+              "filter": {
+                "limit": 20,
+                "isPersonal": false,
+                "topLevelFilterTag": "Boxset",
+                "isAdult": true,
+                "isErotic": true,
+                "source": "vod"
+              }
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "SL_AGG_RECOMMENDATION_GROUPINGS_BECAUSE_YOU_WATCHED_CONTENT",
+              "title": {
+                "dictionaryId": "DIC_BECAUSE_YOU_WATCHED"
+              },
+              "filter": {
+                "limit": 1,
+                "recommendationLimit": 20,
+                "topLevelFilterTag": "Boxset",
+                "isPersonal": false,
+                "isAdult": true,
+                "isErotic": true,
+                "recommendationSource": "vod"
+              }
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Thematic1"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Thematic2"
+                }
+              ]
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Thematic3"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Thematic4"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Thematic5"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Thematic6"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Thematic7"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:HBOGo"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:English"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Malay"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Chinese"
+                }
+              ]
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Thematic8"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Thematic9"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Thematic10"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Indian"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:International"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Korean"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Anime"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:GempakShorts"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:FactualEntertainment"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Channels"
+                }
+              ],
+              "collapsable": "true"
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Store"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:All"
+                }
+              ]
+            }
+
+          ]
+        },
+        "hubKids": {
+          "items": [
+            {
+              "displayType": "heroBanner",
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Kids:Featured"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "SL_AGG_LIBRARY_RECENT_VIEWED",
+              "title": {
+                "dictionaryId": "DIC_WATCH_AGAIN"
+              },
+              "filter": {
+                "limit": 20,
+                "topLevelFilterTag": "Kids",
+                "isAdult": true,
+                "isErotic": true,
+                "source": "vod"
+              }
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "SL_AGG_RECOMMENDATION_TOPLIST",
+              "title": {
+                "dictionaryId": "DIC_TRENDING_NOW"
+              },
+              "filter": {
+                "limit": 20,
+                "isPersonal": false,
+                "topLevelFilterTag": "Kids",
+                "isAdult": true,
+                "isErotic": true,
+                "source": "vod"
+              }
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "SL_AGG_RECOMMENDATION_PREFERENCE",
+              "title": {
+                "dictionaryId": "DIC_JUST_FOR_YOU"
+              },
+              "filter": {
+                "limit": 20,
+                "recommendationGenre": "5",
+                "isAdult": false,
+                "isErotic": false,
+                "source": "vod"
+              }
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Kids:WatchWithFamily"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Kids:Thematic1"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Kids:Thematic2"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Kids:Thematic3"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Kids:Thematic4"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Kids:Thematic5"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Kids:Thematic6"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Kids:Thematic7"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Kids:Thematic8"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Kids:Thematic9"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Kids:Thematic10"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Kids:HBOGo"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Kids:Channels"
+                }
+              ],
+              "collapsable": "true"
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Store"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Kids:All"
+                }
+              ]
+            }
+          ]
+        },
+        "hubStore": {
+          "items": [
+            {
+              "displayType": "heroBanner",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Featured"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:AstroBest"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:AstroFirst"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:HotDeals"
+                }
+              ]
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:MonthlyPasses"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Thematic1"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Thematic2"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Thematic3"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Thematic4"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Thematic5"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Thematic6"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Thematic7"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Thematic8"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Thematic9"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Thematic10"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Action"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Comedy"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Documentary"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Drama"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Family"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Horror"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Kids"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Romance"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:English"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Malay"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Chinese"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Indian"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:WorldCinema"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Channels"
+                }
+              ],
+              "collapsable": "true"
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:All"
+                }
+              ]
+            }
+          ]
+        },
+        "hubSports": {
+          "items": [
+            {
+              "displayType": "heroBanner",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Highlight"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:LiveEvents"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "ON_AIR_BY_EVENT",
+              "filter": {
+                "genreId": "SPORTS"
+              },
+              "title": {
+                "dictionaryId": "DIC_FILTER_TV_ON_AIR"
+              }
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Thematic1"
+                }
+              ]
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Thematic2"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Thematic3"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Thematic4"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Thematic5"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Thematic6"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Thematic7"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Thematic8"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Thematic9"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Thematic10"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Football"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:WWE"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:e-sports"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Golf"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Motorsports"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Racquetsports"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:MartialArts"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Magazine"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:All"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Channels"
+                }
+              ],
+              "collapsable": "true"
+            }
+          ]
+        },
+        "hubLibrary": {
+          "items": [
+            {
+              "displayType":"swimlane",
+              "resolution":"16:9",
+              "id":"SERIES_RECORDINGS"
+            },
+            {
+              "displayType":"swimlane",
+              "resolution":"16:9",
+              "id":"RECORDINGS"
+            },
+            {
+              "displayType":"swimlane",
+              "resolution":"16:9",
+              "id":"BOOKINGS"
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "MYDOWNLOADS",
+              "isSortOptionHidden": true
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "RECENTLY_VIEWED",
+              "showPlayButton": true,
+              "onClick": "play",
+              "filter": {
+                "source": "pvr"
+              }
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "RENTALS",
+              "isSortOptionHidden": true
+            }
+          ]
+        },
+        "hubSettings": {
+          "items": [
+            {
+              "PREFERENCES": {
+                "items": [
+                  "DOWNLOAD_QUALITY",
+                  "UI_LANGUAGE",
+                  "AUDIO_LANGUAGE",
+                  "SUBTITLE_LANGUAGE",
+                  "PARENTAL_CONTROL",
+                  "PIN_MANAGEMENT"
+                ],"downloadQualityOptions": [
+                  {
+                    "type": "DIC_DOWNLOAD_QUALITY_LOW",
+                    "default": false,
+                    "desc": "DIC_DOWNLOAD_QUALITY_LOW_DESC",
+                    "source": {
+                      "vod": {
+                        "sd": {
+                          "maxResolution": "360x288",
+                          "maxBitrate": 400000,
+                          "maxFrameRate": 30.000
+                        },
+                        "hd": {
+                          "maxResolution": "512x288",
+                          "maxBitrate": 400000,
+                          "maxFrameRate": 30.000
+                        }
+                      },
+                      "cdvr": {},
+                      "catchup": {}
+                    }
+                  },
+                  {
+                    "type": "DIC_DOWNLOAD_QUALITY_STD",
+                    "default": true,
+                    "desc": "DIC_DOWNLOAD_QUALITY_STD_DESC",
+                    "source": {
+                      "vod": {
+                        "sd": {
+                          "maxResolution": "600x480",
+                          "maxBitrate": 1200000,
+                          "maxFrameRate": 30.000
+                        },
+                        "hd": {
+                          "maxResolution": "854x480",
+                          "maxBitrate": 1200000,
+                          "maxFrameRate": 30.000
+                        }
+                      },
+                      "cdvr": {},
+                      "catchup": {}
+                    }
+                  },
+                  {
+                    "type": "DIC_DOWNLOAD_QUALITY_HIGH",
+                    "default": false,
+                    "desc": "DIC_DOWNLOAD_QUALITY_HIGH_DESC",
+                    "source": {
+                      "vod": {
+                        "sd": {
+                          "maxResolution": "720x576",
+                          "maxBitrate": 1600000,
+                          "maxFrameRate": 30.000
+                        },
+                        "hd": {
+                          "maxResolution": "1024x576",
+                          "maxBitrate": 2400000,
+                          "maxFrameRate": 30.000
+                        }
+                      },
+                      "cdvr": {},
+                      "catchup": {}
+                    }
+                  }
+                ]
+              },
+              "DEVICE_MANAGEMENT": {
+                "items": [
+                  "DEVICE_ID",
+                  "ACCOUNT_ID",
+                  "HOUSEHOLD_ID",
+                  "APPLICATION_VERSION"
+                ]
+              },
+              "MY_DEVICES": {},
+              "FAQ": {
+                "url": "",
+                "external": false
+              },
+              "LOGOUT": {
+                "mode": "confirmation"
+              }
+            }
+          ]
+        },
+        "onSearch": {
+          "items": [
+            {
+              "source": "ltv",
+              "displayType": "swimlane",
+              "resolution": "16:9"
+            },
+            {
+              "source": "vod",
+              "displayType": "swimlane",
+              "resolution": "16:9"
+            },
+            {
+              "source": "pvr",
+              "displayType": "swimlane",
+              "resolution": "16:9"
+            }
+          ],
+          "landingitems_2.0": [
+            {
+              "displayType": "swimlane_taglist",
+              "id": "RECENT_SEARCH",
+              "source": "ltv,vod,pvr,catchup",
+              "title": {
+                "dictionaryId": "DIC_RECENT_SEARCH"
+              },
+              "filter": {
+                "limit": 20,
+                "topLevelFilterTag": "kids"
+              }
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "16:9",
+              "itemsCount": 20,
+              "source": "ltv",
+              "displaySeeAll": true,
+              "id": "SL_AGG_RECOMMENDATION_TOPLIST",
+              "title": {
+                "dictionaryId": "DIC_TRENDING_SEARCH"
+              }
+            },
+            {
+              "displayType":"swimlane_vertical",
+              "id":"POPULAR_SEARCH",
+              "source": "ltv,vod,catchup",
+              "resolution":"16:9",
+              "itemsCount": 20,
+              "displaySeeAll": false,
+              "title": {
+                "dictionaryId": "DIC_POPULAR_SEARCH"
+              },
+              "filter": {
+                "limit": 20,
+                "topLevelFilterTag": "Movies"
+              }
+
+            }
+          ],
+          "landingitems_3.0": [
+            {
+              "displayType": "swimlane_taglist",
+              "id": "RECENTLY_SEARCH",
+              "itemsCount": 20,
+              "title": {
+                "dictionaryId": "DIC_RECENT_SEARCH"
+              }
+            },
+            {
+              "displayType": "swimlane_poster_title",
+              "resolution": "16:9",
+              "itemsCount": 20,
+              "displaySeeAll": true,
+              "id": "SL_AGG_RECOMMENDATION_POPULAR",
+              "title": {
+                "dictionaryId": "DIC_POPULAR_SEARCH"
+              }
+            }
+          ],
+          "landingitems_4.0": [
+            {
+              "displayType": "swimlane_poster_title",
+              "resolution": "16:9",
+              "itemsCount": 20,
+              "displaySeeAll": true,
+              "id": "SL_AGG_RECOMMENDATION_POPULAR",
+              "title": {
+                "dictionaryId": "DIC_POPULAR_SEARCH"
+              }
+            }
+          ],
+          "items_2.0": [
+            {
+              "filter": {
+                "sort": "+date"
+              },
+              "displayType":"swimlane",
+              "resolution":"16:9",
+              "source": "ltv",
+              "id":"CHANNELS_FOR_GENRE",
+              "title": {
+                "dictionaryId": "DIC_SEARCH_FILTER_TV"
+              }
+            },
+            {
+              "filter": {
+                "sort": "+date"
+              },
+              "displayType":"swimlane",
+              "resolution":"2:3",
+              "source": "vod",
+              "id": "CHANNELS_FOR_GENRE",
+              "title": {
+                "dictionaryId": "DIC_SEARCH_FILTER_STORE"
+              }
+            },
+            {
+              "filter": {
+                "sort": "+date"
+              },
+              "displayType":"swimlane",
+              "id": "CHANNELS_FOR_GENRE",
+              "resolution":"16:9",
+              "source": "pvr",
+              "title": {
+                "dictionaryId": "DIC_SEARCH_FILTER_LIBRARY"
+              }
+            },
+            {
+              "filter": {
+                "sort": "+date"
+              },
+              "id": "CHANNELS_FOR_GENRE",
+              "displayType":"swimlane",
+              "resolution":"16:9",
+              "source": "catchup",
+              "title": {
+                "dictionaryId": "DIC_SEARCH_FILTER_CATCHUP"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "PHONE": {
+      "hubMenuItems": [
+        {
+          "id": "hubHome",
+          "title": {
+            "dictionaryId": "DIC_MAIN_HUB_HOME"
+          }
+        },
+        {
+          "id": "hubCatchUp",
+          "title": {
+            "dictionaryId": "DIC_MAIN_HUB_CATCHUP"
+          }
+        },
+        {
+          "id": "hubBoxSets",
+          "title": {
+            "dictionaryId": "DIC_MAIN_HUB_BOXSETS"
+          }
+        },
+        {
+          "id": "hubMovies",
+          "title": {
+            "dictionaryId": "DIC_MAIN_HUB_MOVIES"
+          }
+        },
+        {
+          "id": "hubKids",
+          "title": {
+            "dictionaryId": "DIC_MAIN_HUB_KIDS"
+          }
+        },
+        {
+          "id": "hubStore",
+          "title": {
+            "dictionaryId": "DIC_MAIN_HUB_STORE"
+          },
+          "excludeDeviceType": "ios"
+        },
+        {
+          "id": "hubSports",
+          "title": {
+            "dictionaryId": "DIC_MAIN_HUB_SPORTS"
+          }
+        },
+        {
+          "id": "hubLibrary",
+          "title": {
+            "dictionaryId": "DIC_MAIN_HUB_LIBRARY"
+          }
+        }
+      ],
+      "swimlaneConfig": {
+        "hubHome": {
+          "items": [
+            {
+              "displayType": "heroBanner",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Home:Featured"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "VOD_FOR_YOU"
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "onClick": "play",
+              "showPlayButton": true,
+              "id": "RECENTLY_VIEWED",
+              "filter": {
+                "source": "vod"
+              }
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "FOR_YOU",
+              "filter": {
+                "duration": 10800
+              }
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "WATCHLIST"
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "FAVORITE_CHANNELS"
+            },
+            {
+              "title": {
+                "dictionaryId": "DIC_SWIMLANE_MY_GENRE"
+              },
+              "displayType": "swimlane",
+              "contents": [
+                {
+                  "predefinedItems": [
+                    {
+                      "id": "ALL_CHANNELS",
+                      "title": {
+                        "dictionaryId": "DIC_MY_GENRE_ALL_CHANNELS"
+                      },
+                      "posterUrl": "http://linear-poster.astro.com.my/prod/Genre/v4/AllChannels.png",
+                      "type": "GENRE"
+                    },
+                    {
+                      "id": "HD",
+                      "title": {
+                        "dictionaryId": "DIC_MY_GENRE_HD"
+                      },
+                      "posterUrl": "http://linear-poster.astro.com.my/prod/Genre/v4/HDChannels.png",
+                      "type": "GENRE"
+                    },
+                    {
+                      "id": "MOVIES",
+                      "title": {
+                        "dictionaryId": "DIC_MY_GENRE_MOVIES"
+                      },
+                      "posterUrl": "http://linear-poster.astro.com.my/prod/Genre/v4/Movies.png",
+                      "type": "GENRE"
+                    },
+                    {
+                      "id": "SPORTS",
+                      "title": {
+                        "dictionaryId": "DIC_MY_GENRE_SPORTS"
+                      },
+                      "posterUrl": "http://linear-poster.astro.com.my/prod/Genre/v4/Sports.png",
+                      "type": "GENRE"
+                    },
+                    {
+                      "id": "NEWS",
+                      "title": {
+                        "dictionaryId": "DIC_MY_GENRE_NEWS"
+                      },
+                      "posterUrl": "http://linear-poster.astro.com.my/prod/Genre/v4/News.png",
+                      "type": "GENRE"
+                    },
+                    {
+                      "id": "MALAY",
+                      "title": {
+                        "dictionaryId": "DIC_MY_GENRE_MALAY"
+                      },
+                      "posterUrl": "http://linear-poster.astro.com.my/prod/Genre/v4/BahasaMalaysia.png",
+                      "type": "GENRE"
+                    },
+                    {
+                      "id": "CHINESE",
+                      "title": {
+                        "dictionaryId": "DIC_MY_GENRE_CHINESE"
+                      },
+                      "posterUrl": "http://linear-poster.astro.com.my/prod/Genre/v4/Chinese.png",
+                      "type": "GENRE"
+                    },
+                    {
+                      "id": "INDIANS",
+                      "title": {
+                        "dictionaryId": "DIC_MY_GENRE_INDIAN"
+                      },
+                      "posterUrl": "http://linear-poster.astro.com.my/prod/Genre/v4/Indian.png",
+                      "type": "GENRE"
+                    },
+                    {
+                      "id": "KIDS",
+                      "title": {
+                        "dictionaryId": "DIC_MY_GENRE_KIDS"
+                      },
+                      "posterUrl": "http://linear-poster.astro.com.my/prod/Genre/v4/Kids.png",
+                      "type": "GENRE"
+                    },
+                    {
+                      "id": "EDUCATION",
+                      "title": {
+                        "dictionaryId": "DIC_MY_GENRE_EDUCATION"
+                      },
+                      "posterUrl": "http://linear-poster.astro.com.my/prod/Genre/v4/Education.png",
+                      "type": "GENRE"
+                    },
+                    {
+                      "id": "ENTERTAINMENT",
+                      "title": {
+                        "dictionaryId": "DIC_MY_GENRE_ENTERTAINMENT"
+                      },
+                      "posterUrl": "http://linear-poster.astro.com.my/prod/Genre/v4/Entertainment.png",
+                      "type": "GENRE"
+                    },
+                    {
+                      "id": "DOCUMENTARIES",
+                      "title": {
+                        "dictionaryId": "DIC_MY_GENRE_DOCUMENTARY"
+                      },
+                      "posterUrl": "http://linear-poster.astro.com.my/prod/Genre/v4/Documentary.png",
+                      "type": "GENRE"
+                    },
+                    {
+                      "id": "LIFESTYLES",
+                      "title": {
+                        "dictionaryId": "DIC_MY_GENRE_LIFESTYLE"
+                      },
+                      "posterUrl": "http://linear-poster.astro.com.my/prod/Genre/v4/Lifestyle.png",
+                      "type": "GENRE"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "RENTALS",
+              "isSortOptionHidden": true
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "isSortOptionHidden": false,
+              "contents": [
+                {
+                  "classification": "node:IVP:Home:OnDemandRecentlyAdded"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "id": "RECENTLY_VIEWED_CHANNELS"
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Home:LinearEvents"
+              }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "ON_AIR_BY_EVENT"
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Home:Thematic1"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "isSortOptionHidden": false,
+              "contents": [
+                {
+                  "classification": "node:IVP:Home:OnDemandLastChance"
+                }
+              ]
+            }
+          ]
+        },
+        "hubCatchUp": {
+          "items": [
+            {
+              "displayType": "heroBanner",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Featured"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "SL_AGG_RECOMMENDATION_TOPLIST",
+              "title": {
+                "dictionaryId": "DIC_POPULAR"
+              },
+              "filter": {
+                "limit": 20,
+                "isPersonal": false,
+                "topLevelFilterTag": "CatchUp",
+                "isAdult": true,
+                "isErotic": true,
+                "source": "vod"
+              }
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Thematic1"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Thematic2"
+                }
+              ]
+            },
+            {
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Thematic3"
+                }
+              ],
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Thematic4"
+                }
+              ],
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Thematic5"
+                }
+              ],
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Thematic6"
+                }
+              ],
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Thematic7"
+                }
+              ],
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Thematic8"
+                }
+              ],
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Thematic9"
+                }
+              ],
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Thematic10"
+                }
+              ],
+              "displayType": "swimlane"
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:HBOGo"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:English"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Malay"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Chinese"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Indian"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Korean"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Anime"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:FactualEntertainment"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:News"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:International"
+                }
+              ]
+            },
+            {
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:GoShop"
+                }
+              ],
+              "displayType": "swimlane"
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:Channels"
+                }
+              ],
+              "collapsable": "true"
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:CatchUp:All"
+                }
+              ]
+            }
+          ]
+        },
+        "channelPageForOnAir": {
+          "items": [
+            {
+              "id": "UPNEXT_EVENTS",
+              "filter": {
+                "seeAllCount": 10
+              }
+            },
+            {
+              "id": "FUTURE_EVENTS",
+              "filter": {
+                "collapse": true,
+                "seeAllCount": 10,
+                "noOfDays": 10
+              }
+            },
+            {
+              "id": "JUST_MISSED_EVENTS",
+              "filter": {
+                "seeAllCount": 10
+              }
+            }
+          ]
+        },
+        "channelPageForOnAirCatchUp": {
+          "items": [
+            {
+              "id": "CATCHUP_EVENTS",
+              "filter": {
+                "collapse": true,
+                "seeAllCount": 10,
+                "noOfDays": 10
+              }
+            }
+          ]
+        },
+        "channelPageForPlayer": {
+          "items": [
+            {
+              "id": "UPNEXT_EVENTS",
+              "filter": {
+                "seeAllCount": 10
+              }
+            },
+            {
+              "id": "FUTURE_EVENTS",
+              "filter": {
+                "collapse": true,
+                "seeAllCount": 10,
+                "noOfDays": 10
+              }
+            }
+          ]
+        },
+        "channelPageForGuideFuture": {
+          "items": [
+            {
+              "id": "UPNEXT_EVENTS",
+              "filter": {
+                "seeAllCount": 10
+              }
+            },
+            {
+              "id": "FUTURE_EVENTS",
+              "filter": {
+                "collapse": true,
+                "seeAllCount": 10,
+                "noOfDays": 10
+              }
+            }
+          ]
+        },
+        "channelPageForGuideCatchUp": {
+          "items": [
+            {
+              "id": "UPNEXT_EVENTS",
+              "filter": {
+                "seeAllCount": 10
+              }
+            },
+            {
+              "id": "FUTURE_EVENTS",
+              "filter": {
+                "collapse": true,
+                "seeAllCount": 10,
+                "noOfDays": 10
+              }
+            }
+          ]
+        },
+        "hubMovies": {
+          "items": [
+            {
+              "displayType": "heroBanner",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Featured"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "2:3",
+              "id": "SL_AGG_RECOMMENDATION_GROUPINGS_BECAUSE_YOU_WATCHED_CONTENT",
+              "title": {
+                "dictionaryId": "DIC_BECAUSE_YOU_WATCHED"
+              },
+              "filter": {
+                "limit": 1,
+                "recommendationLimit": 20,
+                "topLevelFilterTag": "Movies",
+                "isPersonal": false,
+                "isAdult": true,
+                "isErotic": true,
+                "recommendationSource": "vod"
+              }
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "2:3",
+              "id": "SL_AGG_RECOMMENDATION_TOPLIST",
+              "title": {
+                "dictionaryId": "DIC_POPULAR"
+              },
+              "filter": {
+                "limit": 20,
+                "isPersonal": false,
+                "topLevelFilterTag": "Movies",
+                "isAdult": true,
+                "isErotic": true,
+                "source": "vod"
+              }
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Thematic1"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Thematic2"
+                }
+              ]
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Thematic3"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "resolution": "2:3",
+              "displayType": "swimlane"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Thematic4"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "resolution": "2:3",
+              "displayType": "swimlane"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Thematic5"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "resolution": "2:3",
+              "displayType": "swimlane"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Thematic6"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "resolution": "2:3",
+              "displayType": "swimlane"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Thematic7"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "resolution": "2:3",
+              "displayType": "swimlane"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Thematic8"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "resolution": "2:3",
+              "displayType": "swimlane"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Thematic9"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "resolution": "2:3",
+              "displayType": "swimlane"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Thematic10"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "resolution": "2:3",
+              "displayType": "swimlane"
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:HBOGo"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Action"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Comedy"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Documentary"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Drama"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Family"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Horror"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Kids"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Romance"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:English"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Malay"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Chinese"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Indian"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Korean"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:WorldCinema"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Channels"
+                }
+              ],
+              "collapsable": "true"
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:Stores"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Movies:All"
+                }
+              ]
+            }
+          ]
+        },
+        "hubBoxSets": {
+          "items": [
+            {
+              "displayType": "heroBanner",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Featured"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "SL_AGG_RECOMMENDATION_GROUPINGS_BECAUSE_YOU_WATCHED_CONTENT",
+              "title": {
+                "dictionaryId": "DIC_BECAUSE_YOU_WATCHED"
+              },
+              "filter": {
+                "limit": 1,
+                "recommendationLimit": 20,
+                "topLevelFilterTag": "Boxset",
+                "isPersonal": false,
+                "isAdult": true,
+                "isErotic": true,
+                "recommendationSource": "vod"
+              }
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "SL_AGG_RECOMMENDATION_TOPLIST",
+              "title": {
+                "dictionaryId": "DIC_POPULAR"
+              },
+              "filter": {
+                "limit": 20,
+                "isPersonal": false,
+                "topLevelFilterTag": "Boxset",
+                "isAdult": true,
+                "isErotic": true,
+                "source": "vod"
+                }
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Thematic2"
+                }
+              ]
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Thematic3"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Thematic4"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Thematic5"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Thematic6"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Thematic7"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:HBOGo"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:English"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Malay"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Chinese"
+                }
+              ]
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Thematic8"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Thematic9"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Thematic10"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Indian"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:International"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Korean"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Anime"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:GempakShorts"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:FactualEntertainment"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Channels"
+                }
+              ],
+              "collapsable": "true"
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Store"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:All"
+                }
+              ]
+            }
+
+          ]
+        },
+        "hubKids": {
+          "items": [
+            {
+              "displayType": "heroBanner",
+              "resolution": "16:9",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Kids:Featured"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "SL_AGG_RECOMMENDATION_PREFERENCE",
+              "title": {
+                "dictionaryId": "DIC_JUST_FOR_YOU"
+              },
+              "filter": {
+                "limit": 20,
+                "recommendationGenre": "5",
+                "isAdult": false,
+                "isErotic": false,
+                "source": "vod"
+              }
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "SL_AGG_LIBRARY_RECENT_VIEWED",
+              "title": {
+                "dictionaryId": "DIC_WATCH_AGAIN"
+              },
+              "filter": {
+                "limit": 20,
+                "topLevelFilterTag": "Kids",
+                "isAdult": true,
+                "isErotic": true,
+                "source": "vod"
+              }
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "SL_AGG_RECOMMENDATION_TOPLIST",
+              "title": {
+                "dictionaryId": "DIC_TRENDING_NOW"
+              },
+              "filter": {
+                "limit": 20,
+                "isPersonal": false,
+                "topLevelFilterTag": "Kids",
+                "isAdult": true,
+                "isErotic": true,
+                "source": "vod"
+              }
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Kids:WatchWithFamily"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Kids:Thematic1"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Kids:Thematic2"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Kids:Thematic3"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Kids:Thematic4"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Kids:Thematic5"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Kids:Thematic6"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Kids:Thematic7"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Kids:Thematic8"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Kids:Thematic9"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Kids:Thematic10"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Kids:HBOGo"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Kids:Channels"
+                }
+              ],
+              "collapsable": "true"
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Boxset:Store"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Kids:All"
+                }
+              ]
+            }
+          ]
+        },
+        "hubStore": {
+          "items": [
+            {
+              "displayType": "heroBanner",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Featured"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:AstroBest"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:AstroFirst"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:HotDeals"
+                }
+              ]
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:MonthlyPasses"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane",
+              "resolution": "2:3"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Thematic1"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane",
+              "resolution": "2:3"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Thematic2"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane",
+              "resolution": "2:3"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Thematic3"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "resolution": "2:3",
+              "displayType": "swimlane"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Thematic4"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "resolution": "2:3",
+              "displayType": "swimlane"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Thematic5"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "resolution": "2:3",
+              "displayType": "swimlane"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Thematic6"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "resolution": "2:3",
+              "displayType": "swimlane"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Thematic7"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "resolution": "2:3",
+              "displayType": "swimlane"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Thematic8"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "resolution": "2:3",
+              "displayType": "swimlane"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Thematic9"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "resolution": "2:3",
+              "displayType": "swimlane"
+            },
+            {
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Thematic10"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "resolution": "2:3",
+              "displayType": "swimlane"
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Action"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Comedy"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Documentary"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Drama"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Family"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Horror"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Kids"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Romance"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:English"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Malay"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Chinese"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Indian"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:WorldCinema"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:Channels"
+                }
+              ],
+              "collapsable": "true"
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "2:3",
+              "playButtonVisibility": "invisible",
+              "contents": [
+                {
+                  "classification": "node:IVP:Store:All"
+                }
+              ]
+            }
+          ]
+        },
+        "hubSports": {
+          "items": [
+            {
+              "displayType": "heroBanner",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Highlight"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:LiveEvents"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "ON_AIR_BY_EVENT",
+              "filter": {
+                "genreId": "SPORTS"
+              },
+              "title": {
+                "dictionaryId": "DIC_FILTER_TV_ON_AIR"
+              }
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Thematic1"
+                }
+              ]
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Thematic2"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Thematic3"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Thematic4"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Thematic5"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Thematic6"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Thematic7"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Thematic8"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Thematic9"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Thematic10"
+                }
+              ],
+              "playButtonVisibility": "invisible",
+              "displayType": "swimlane"
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:WWE"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Football"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:e-sports"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Racquetsports"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Golf"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Motorsports"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:MartialArts"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Magazine"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:All"
+                }
+              ]
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "contents": [
+                {
+                  "classification": "node:IVP:Sports:Channels"
+                }
+              ],
+              "collapsable": "true"
+            }
+          ]
+        },
+        "hubLibrary": {
+          "items": [
+            {
+              "displayType":"swimlane",
+              "resolution":"16:9",
+              "id":"SERIES_RECORDINGS"
+            },
+            {
+              "displayType":"swimlane",
+              "resolution":"16:9",
+              "id":"RECORDINGS"
+            },
+            {
+              "displayType":"swimlane",
+              "resolution":"16:9",
+              "id":"BOOKINGS"
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "MYDOWNLOADS",
+              "isSortOptionHidden": true
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "RECENTLY_VIEWED",
+              "showPlayButton": true,
+              "onClick": "play",
+              "filter": {
+                "source": "pvr"
+              }
+            },
+            {
+              "displayType": "swimlane",
+              "playButtonVisibility": "invisible",
+              "resolution": "16:9",
+              "id": "RENTALS",
+              "isSortOptionHidden": true
+            }
+          ]
+        },
+        "hubSettings": {
+          "items": [
+            {
+              "PREFERENCES": {
+                "items": [
+                  "DOWNLOAD_QUALITY",
+                  "UI_LANGUAGE",
+                  "AUDIO_LANGUAGE",
+                  "SUBTITLE_LANGUAGE",
+                  "PARENTAL_CONTROL",
+                  "PIN_MANAGEMENT"
+                ],"downloadQualityOptions": [
+                  {
+                    "type": "DIC_DOWNLOAD_QUALITY_LOW",
+                    "default": false,
+                    "desc": "DIC_DOWNLOAD_QUALITY_LOW_DESC",
+                    "source": {
+                      "vod": {
+                        "sd": {
+                          "maxResolution": "360x288",
+                          "maxBitrate": 400000,
+                          "maxFrameRate": 30.000
+                        },
+                        "hd": {
+                          "maxResolution": "512x288",
+                          "maxBitrate": 400000,
+                          "maxFrameRate": 30.000
+                        }
+                      },
+                      "cdvr": {},
+                      "catchup": {}
+                    }
+                  },
+                  {
+                    "type": "DIC_DOWNLOAD_QUALITY_STD",
+                    "default": true,
+                    "desc": "DIC_DOWNLOAD_QUALITY_STD_DESC",
+                    "source": {
+                      "vod": {
+                        "sd": {
+                          "maxResolution": "600x480",
+                          "maxBitrate": 1200000,
+                          "maxFrameRate": 30.000
+                        },
+                        "hd": {
+                          "maxResolution": "854x480",
+                          "maxBitrate": 1200000,
+                          "maxFrameRate": 30.000
+                        }
+                      },
+                      "cdvr": {},
+                      "catchup": {}
+                    }
+                  },
+                  {
+                    "type": "DIC_DOWNLOAD_QUALITY_HIGH",
+                    "default": false,
+                    "desc": "DIC_DOWNLOAD_QUALITY_HIGH_DESC",
+                    "source": {
+                      "vod": {
+                        "sd": {
+                          "maxResolution": "720x576",
+                          "maxBitrate": 1600000,
+                          "maxFrameRate": 30.000
+                        },
+                        "hd": {
+                          "maxResolution": "1024x576",
+                          "maxBitrate": 2400000,
+                          "maxFrameRate": 30.000
+                        }
+                      },
+                      "cdvr": {},
+                      "catchup": {}
+                    }
+                  }
+                ]
+              },
+              "DEVICE_MANAGEMENT": {
+                "items": [
+                  "DEVICE_ID",
+                  "ACCOUNT_ID",
+                  "HOUSEHOLD_ID",
+                  "APPLICATION_VERSION"
+                ]
+              },
+              "MY_DEVICES": {},
+              "FAQ": {
+                "url": "",
+                "external": false
+              },
+              "LOGOUT": {
+                "mode": "confirmation"
+              }
+            }
+          ]
+        },
+        "onSearch": {
+          "items": [
+            {
+              "source": "ltv",
+              "displayType": "swimlane",
+              "resolution": "16:9"
+            },
+            {
+              "source": "vod",
+              "displayType": "swimlane",
+              "resolution": "16:9"
+            },
+            {
+              "source": "pvr",
+              "displayType": "swimlane",
+              "resolution": "16:9"
+            }
+          ],
+          "landingitems_2.0": [
+            {
+              "displayType": "swimlane_taglist",
+              "id": "RECENT_SEARCH",
+              "source": "ltv,vod,pvr,catchup",
+              "title": {
+                "dictionaryId": "DIC_RECENT_SEARCH"
+              },
+              "filter": {
+                "limit": 20,
+                "topLevelFilterTag": "kids"
+              }
+            },
+            {
+              "displayType": "swimlane",
+              "resolution": "16:9",
+              "itemsCount": 20,
+              "source": "ltv",
+              "displaySeeAll": true,
+              "id": "SL_AGG_RECOMMENDATION_TOPLIST",
+              "title": {
+                "dictionaryId": "DIC_TRENDING_SEARCH"
+              }
+            },
+            {
+              "displayType":"swimlane_vertical",
+              "id":"POPULAR_SEARCH",
+              "source": "ltv,vod,catchup",
+              "resolution":"16:9",
+              "itemsCount": 20,
+              "displaySeeAll": false,
+              "title": {
+                "dictionaryId": "DIC_POPULAR_SEARCH"
+              },
+              "filter": {
+                "limit": 20,
+                "topLevelFilterTag": "Movies"
+              }
+
+            }
+          ],
+          "landingitems_3.0": [
+            {
+              "displayType": "swimlane_taglist",
+              "id": "RECENTLY_SEARCH",
+              "itemsCount": 20,
+              "title": {
+                "dictionaryId": "DIC_RECENT_SEARCH"
+              }
+            },
+            {
+              "displayType": "swimlane_poster_title",
+              "resolution": "16:9",
+              "itemsCount": 20,
+              "displaySeeAll": true,
+              "id": "SL_AGG_RECOMMENDATION_POPULAR",
+              "title": {
+                "dictionaryId": "DIC_POPULAR_SEARCH"
+              }
+            }
+          ],
+          "landingitems_4.0": [
+            {
+              "displayType": "swimlane_poster_title",
+              "resolution": "16:9",
+              "itemsCount": 20,
+              "displaySeeAll": true,
+              "id": "SL_AGG_RECOMMENDATION_POPULAR",
+              "title": {
+                "dictionaryId": "DIC_POPULAR_SEARCH"
+              }
+            }
+          ],
+          "items_2.0": [
+            {
+              "filter": {
+                "sort": "+date"
+              },
+              "displayType":"swimlane",
+              "resolution":"16:9",
+              "source": "ltv",
+              "id":"CHANNELS_FOR_GENRE",
+              "title": {
+                "dictionaryId": "DIC_SEARCH_FILTER_TV"
+              }
+            },
+            {
+              "filter": {
+                "sort": "+date"
+              },
+              "displayType":"swimlane",
+              "resolution":"2:3",
+              "source": "vod",
+              "id": "CHANNELS_FOR_GENRE",
+              "title": {
+                "dictionaryId": "DIC_SEARCH_FILTER_STORE"
+              }
+            },
+            {
+              "filter": {
+                "sort": "+date"
+              },
+              "displayType":"swimlane",
+              "id": "CHANNELS_FOR_GENRE",
+              "resolution":"16:9",
+              "source": "pvr",
+              "title": {
+                "dictionaryId": "DIC_SEARCH_FILTER_LIBRARY"
+              }
+            },
+            {
+              "filter": {
+                "sort": "+date"
+              },
+              "id": "CHANNELS_FOR_GENRE",
+              "displayType":"swimlane",
+              "resolution":"16:9",
+              "source": "catchup",
+              "title": {
+                "dictionaryId": "DIC_SEARCH_FILTER_CATCHUP"
+              }
+            }
+          ]
+
+        }
+      }
+    }
+  },
+  "features": {
+    "disableDVR": false,
+    "enableUILanguageBasedConfiguration": true,
+    "searchExperience": {
+      "preferredVersion":"v3.0",
+      "v2.0" :{
+        "enableVoiceSearch":true,
+        "resultsPageIA": "items_2.0",
+        "landingPageIA": "landingitems_2.0"
+      },
+      "v3.0" :{
+        "enableVoiceSearch":false,
+        "resultsPageIA": "items_3.0",
+        "landingPageIA": "landingitems_3.0"
+      },
+      "v4.0" :{
+        "enableVoiceSearch":false,
+        "resultsPageIA": "items_3.0",
+        "landingPageIA": "landingitems_4.0"
+      }
+    },
+    "hideChannelLogo": [
+      "swimlane",
+      "QUICK_AM"
+    ],
+    "nexplayer_exceptions": [
+      {
+        "name": "mediatek_playback",
+        "devices": [
+          {
+            "model": "CPH1969",
+            "os_versions": [
+              "6.0",
+              "7.0",
+              "9.0"
+            ]
+          },{
+            "model": "CPH1823",
+            "os_versions": [
+              "8.0",
+              "8.1",
+              "9.0"
+            ]
+          },
+          {
+            "model": "vivo 1819",
+            "os_versions": [
+              "9.0"
+            ]
+          }
+        ]
+      }
+    ],
+    "softwareDrmEnforcedDevices": [
+      {
+        "deviceManufacturer": "OnePlus",
+        "deviceModel": "ONEPLUS A6010"
+      },
+      {
+        "deviceManufacturer": "samsung",
+        "deviceModel": "SM-M305F"
+      }
+    ]
+  }
+}

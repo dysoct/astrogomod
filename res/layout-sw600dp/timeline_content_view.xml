@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <androidx.appcompat.widget.Toolbar android:gravity="start" android:id="@id/player_banner_toolbar" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.cisco.veop.sf_ui.ui_configuration.UiConfigTextView android:id="@id/channelNumber" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <LinearLayout android:orientation="horizontal" android:id="@id/channelLogo" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <com.cisco.veop.sf_ui.ui_configuration.UiConfigTextView android:id="@id/eventTitle" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <com.cisco.veop.sf_ui.ui_configuration.UiConfigTextView android:id="@id/eventInfo" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </androidx.appcompat.widget.Toolbar>
+    </LinearLayout>
+    <view android:id="@id/playerView" android:layout_width="fill_parent" android:layout_height="fill_parent" class="com.cisco.veop.client.kiott.player.ui.KTTrickmodeBarView" />
+    <RelativeLayout android:gravity="bottom" android:id="@id/player_banner_bottombar" android:layout_width="fill_parent" android:layout_height="90.0dip" android:layout_marginBottom="101.0dip" android:layout_below="@id/playerView">
+        <LinearLayout android:gravity="right" android:orientation="horizontal" android:id="@id/progress_time" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <com.cisco.veop.sf_ui.ui_configuration.UiConfigTextView android:gravity="right" android:id="@id/currentTimes" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <com.cisco.veop.sf_ui.ui_configuration.UiConfigTextView android:gravity="right" android:id="@id/totalTime" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+        <com.cisco.veop.client.kiott.player.ui.KTSeekBarView android:id="@id/playbackScrubberBar" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </RelativeLayout>
+    <com.cisco.veop.sf_ui.ui_configuration.UiConfigTextView android:id="@id/skipIntro" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</RelativeLayout>

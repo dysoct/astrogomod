@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+Metadata part of tile is presented in this layout. This is included in multiple layouts like
+type type1 and hero banner tiles.
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/tile_metadata1_title"
+        android:text="Title Text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:requiresFadingEdge="horizontal"
+        android:fadingEdgeLength="40dp"
+        android:ellipsize="none"
+        android:singleLine="true"
+        android:textColor="#B3EBEBEB"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/tile_metadata1_second_line"
+        android:text="Secondary Text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fadingEdgeLength="40dp"
+        android:requiresFadingEdge="horizontal"
+        android:ellipsize="none"
+        android:singleLine="true"
+        android:textColor="#B3EBEBEB"
+        android:textSize="14dp"/>
+
+    <LinearLayout
+        android:id="@+id/tile_metadata1_third_line_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:overScrollMode="never"
+        android:layout_margin="0px">
+
+        <TextView
+            android:id="@+id/tile_metadata1_third_line"
+            android:text="00:10 - 02:30pm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:gravity="center_vertical|start"
+            android:layout_gravity="center_vertical|start"
+            android:ellipsize="none"
+            android:singleLine="true"
+            android:textColor="#B3EBEBEB"
+            android:textSize="12dp" />
+
+        <TextView
+            android:id="@+id/tile_metadata1_icons"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="3dp"
+            android:paddingTop="0pt"
+            android:paddingBottom="0.5pt"
+            android:text="o o o"
+            android:textAlignment="viewStart"
+            android:textColor="#BFFFFFFF"
+            android:textSize="12dp"/>
+
+    </LinearLayout>
+</LinearLayout>

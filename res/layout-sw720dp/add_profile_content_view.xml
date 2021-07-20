@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/profile_avatar_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.cisco.veop.client.userprofile.screens.CircularImageView android:layout_gravity="center_horizontal" android:id="@id/profile_avatar_content_item_image_view" android:layout_width="100.0dip" android:layout_height="100.0dip" android:layout_marginTop="100.0dip" android:src="@drawable/default_profile_add" android:tint="#6f000000" />
+        <TextView android:textSize="18.0sp" android:textColor="#99ebebeb" android:layout_gravity="center_horizontal" android:id="@id/profile_avatar_content_item_header_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="7.0dip" android:layout_below="@id/profile_avatar_content_item_image_view" />
+    </LinearLayout>
+    <RelativeLayout android:id="@id/profile_name_layout" android:background="@drawable/add_profile_item_rectangle_border" android:layout_width="546.0dip" android:layout_height="60.0dip" android:layout_marginTop="40.0dip" android:layout_below="@id/profile_avatar_layout" android:layout_centerHorizontal="true">
+        <TextView android:textSize="17.0sp" android:id="@id/profile_name_title" android:layout_width="wrap_content" android:layout_height="22.0dip" android:layout_marginTop="9.0dip" android:layout_marginStart="20.0dip" />
+        <EditText android:textSize="15.0sp" android:id="@id/profile_edit_view" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="20.0dip" android:layout_marginBottom="9.0dip" android:singleLine="true" android:layout_below="@id/profile_name_title" android:windowSoftInputMode="adjustPan" android:layout_marginStart="20.0dip" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/profile_age_layout" android:background="@drawable/add_profile_item_rectangle_border" android:layout_width="546.0dip" android:layout_height="60.0dip" android:layout_marginTop="10.0dip" android:layout_below="@id/profile_name_layout" android:layout_centerHorizontal="true">
+        <TextView android:textSize="17.0sp" android:id="@id/profile_age_header" android:layout_width="wrap_content" android:layout_height="22.0dip" android:layout_marginTop="9.0dip" android:layout_marginStart="20.0dip" />
+        <TextView android:textSize="15.0sp" android:textColor="#91ebebeb" android:id="@id/profile_age_hint" android:layout_width="wrap_content" android:layout_height="20.0dip" android:layout_marginBottom="9.0dip" android:layout_below="@id/profile_age_header" android:layout_marginStart="20.0dip" />
+        <LinearLayout android:gravity="center_vertical" android:id="@id/profile_age_button_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginEnd="19.0dip" android:layout_alignParentEnd="true">
+            <TextView android:textSize="15.0sp" android:layout_gravity="bottom" android:id="@id/profile_age_button" android:layout_width="wrap_content" android:layout_height="20.0dip" android:text="Adult" android:layout_alignParentRight="true" android:layout_marginEnd="10.0dip" />
+            <TextView android:layout_gravity="bottom" android:id="@id/profile_age_button_arrow" android:layout_width="9.0dip" android:layout_height="20.0dip" android:layout_alignRight="@id/profile_age_button" />
+        </LinearLayout>
+    </RelativeLayout>
+    <Button android:textSize="13.0sp" android:textColor="#ffffffff" android:id="@id/btn_profile_delete" android:background="@drawable/user_profile_button_border" android:visibility="gone" android:layout_width="238.0dip" android:layout_height="35.0dip" android:layout_marginTop="143.0dip" android:layout_below="@id/profile_age_layout" android:layout_centerHorizontal="true" />
+</RelativeLayout>

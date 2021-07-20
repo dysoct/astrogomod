@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) Synamedia, All rights reserved
+  -->
+
+<RelativeLayout
+    android:id="@+id/tvGuideSpinnerDropdownItemContainer"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:layout_centerInParent="true"
+    android:layout_marginStart="@dimen/component_custom_drop_down_item_margin_left"
+    android:layout_marginEnd="@dimen/component_custom_drop_down_item_margin_right"
+    android:layout_marginBottom="@dimen/component_custom_drop_down_item_margin_bottom"
+    android:layout_marginTop="@dimen/component_custom_drop_down_item_margin_top"
+    android:duplicateParentState="true"
+    android:background="@drawable/tv_component_guide_custom_dropdown_item_bg"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/tvComponentGuideCustomDropdownItemText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingStart="12dp"
+        android:paddingEnd="12dp"
+        android:textSize="16sp"
+        android:textColor="@android:color/black"
+        android:duplicateParentState="true"
+        android:gravity="center"/>
+
+</RelativeLayout>

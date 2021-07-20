@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:orientation="vertical" android:id="@id/frame_profile_add" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.cisco.veop.client.userprofile.screens.CircularImageView android:id="@id/img_profile_add" android:layout_width="fill_parent" android:layout_height="fill_parent" android:tint="#6f000000" />
+        <com.cisco.veop.sf_ui.ui_configuration.UiConfigTextView android:layout_gravity="center" android:id="@id/txt_edit_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </FrameLayout>
+    <com.cisco.veop.client.userprofile.screens.CircularImageView android:id="@id/profiler_avatar_content_item_image_view" android:layout_width="0.0dip" android:layout_height="0.0dip" />
+    <TextView android:layout_gravity="center_horizontal" android:id="@id/profiler_name_content_item_text_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="7.0dip" />
+</LinearLayout>

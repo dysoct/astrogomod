@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) Synamedia, All rights reserved
+  -->
+
+<resources>
+    <color name="fastScrollThumbColor">#FFFFFFFF</color>
+    <color name="switch_activated_color">#4CD964</color>
+    <color name="switch_foreground_color">#FFFFFF</color>
+    <color name="pin_pop_up_input_background_color_tab">#90EBEBEB</color>
+    <color name="pin_pop_up_input_background_color">#FFFFFFFF</color>
+
+    <color name="action_button_download_failed_color">#f7b500</color>
+    <color name="action_button_download_progress_spinner_fg_color">#ffffff</color>
+    <color name="action_button_download_progress_spinner_bg_color">#19ffffff</color>
+    <color name="action_button_download_queued_color">#ebebeb</color>
+    <color name="guide_dropdown_bg_color">#FFdfdfdf</color>
+    <color name="guide_spinner_button_bg_color">#26ffffff</color>
+    <color name="guide_spinner_button_state_selected_bg_color">#dfdfdf</color>
+    <color name="guide_spinner_button_state_pressed_bg_color">#dfdfdf</color>
+    <color name="guide_arrow_down_icon_color">#dfdfdf</color>
+    <color name="guide_dropdown_tooltip_triangle_color">#dfdfdf</color>
+    <!-- Hamburger -->
+    <color name="hamburger_text">#B3EBEBEB</color>
+    <color name="hamburger_text_state_selected">#FFFFFF</color>
+    <color name="hamburger_text_state_focused">#FFFFFF</color>
+    <color name="hamburger_text_state_pressed">#FFFFFF</color>
+    <color name="hamburger_header_background">#282828</color>
+
+    <!-- Tile_Type1 -->
+    <color name="tile_progress_bar_background">#6f6e6e</color>
+    <color name="tile_progress_bar_foreground">#ebebeb</color>
+
+</resources>

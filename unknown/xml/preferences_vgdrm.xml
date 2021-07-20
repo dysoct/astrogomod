@@ -1,0 +1,69 @@
+<!--
+  ~ Copyright (c) Synamedia, All rights reserved
+  -->
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="VGDrm Settings" >
+        <EditTextPreference
+            android:defaultValue="@string/pref_drm_gw_host"
+            android:dialogTitle="vgdrm.host host"
+            android:key="@string/pref_name_drm_gw_host"
+            android:summary="vgdrm.host host"
+            android:title="vgdrm.host host" />
+        <EditTextPreference
+            android:defaultValue="@string/pref_drm_gw_port"
+            android:dialogTitle="vgdrm.host port"
+            android:key="@string/pref_name_drm_gw_port"
+            android:summary="vgdrm.host port"
+            android:title="vgdrm.host port" />
+        <EditTextPreference
+            android:defaultValue="@string/pref_drm_gw_edge_host"
+            android:dialogTitle="vgdrm.edge.host host"
+            android:key="@string/pref_name_drm_gw_edge_host"
+            android:summary="vgdrm.edge.host host"
+            android:title="vgdrm.edge.host host" />
+        <EditTextPreference
+            android:defaultValue="@string/pref_drm_gw_edge_port"
+            android:dialogTitle="vgdrm.edge.host port"
+            android:key="@string/pref_name_drm_gw_edge_port"
+            android:summary="vgdrm.edge.host port"
+            android:title="vgdrm.edge.host port" />
+        <EditTextPreference
+            android:defaultValue="@string/pref_drm_gw_vod_edge_host"
+            android:dialogTitle="vgdrm.vod.edge.host host"
+            android:key="@string/pref_name_drm_gw_vod_edge_host"
+            android:summary="vgdrm.vod.edge.host host"
+            android:title="vgdrm.vod.edge.host host" />
+        <EditTextPreference
+            android:defaultValue="@string/pref_drm_gw_vod_edge_port"
+            android:dialogTitle="vgdrm.vod.edge.host port"
+            android:key="@string/pref_name_drm_gw_vod_edge_port"
+            android:summary="vgdrm.vod.edge.host port"
+            android:title="vgdrm.vod.edge.host port" />
+        <EditTextPreference
+            android:defaultValue="@string/pref_drm_gw_connection_monitor_host"
+            android:dialogTitle="ConnectionMonitor host"
+            android:key="@string/pref_name_drm_gw_connection_monitor_host"
+            android:summary="ConnectionMonitor host"
+            android:title="ConnectionMonitor host" />
+        <EditTextPreference
+            android:defaultValue="@string/pref_drm_gw_connection_monitor_port"
+            android:dialogTitle="ConnectionMonitor port"
+            android:key="@string/pref_name_drm_gw_connection_monitor_port"
+            android:summary="ConnectionMonitor port"
+            android:title="ConnectionMonitor port" />
+        <CheckBoxPreference
+            android:defaultValue="@bool/pref_drm_sac4_enabled"
+            android:key="@string/pref_name_drm_sac4_enabled"
+            android:summary="Detect in out of home using SAC4"
+            android:title="Detect in out of home using SAC4" />
+        <EditTextPreference
+            android:defaultValue="@string/pref_drm_sac4_server_port"
+            android:dialogTitle="STB SAC4 port"
+            android:key="@string/pref_name_drm_sac4_server_port"
+            android:summary="STB SAC4 port"
+            android:title="STB SAC4 port" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

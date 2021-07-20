@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.navigation.NavigationView android:theme="@style/AppTheme" android:layout_gravity="start" android:id="@id/hamburger_navigation_view" android:background="#ff101010" android:layout_width="fill_parent" android:layout_height="fill_parent" app:headerLayout="@layout/hamburger_header" app:insetForeground="@null"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ListView android:id="@id/hamburger_list_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:divider="#00000000" android:dividerHeight="0.0dip" android:choiceMode="singleChoice" />
+</com.google.android.material.navigation.NavigationView>

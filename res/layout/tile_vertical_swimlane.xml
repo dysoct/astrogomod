@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/tile_vertical_swimlane_layout" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/tile_poster" android:layout_width="160.0dip" android:layout_height="90.0dip" android:src="@drawable/default_event_bitmap_vod_portrait" />
+    <TextView android:textSize="12.0sp" android:textColor="#ffbcbcbc" android:ellipsize="end" android:id="@id/tile_item_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="148.0dip" android:text="Knives Out " android:maxLines="1" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintLeft_toRightOf="@id/tile_poster" app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

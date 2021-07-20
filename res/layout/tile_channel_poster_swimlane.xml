@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/tile_channel_poster_swimlane" android:layout_width="@dimen/tile_type1_width" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layout_marginEnd="6.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/tile_poster" android:layout_width="fill_parent" android:layout_height="@dimen/tile_poster_height" />
+        <View android:id="@id/tile_poster_gradient" android:layout_width="fill_parent" android:layout_height="@dimen/tile_poster_gradient_height" android:layout_alignBottom="@id/tile_poster" />
+        <ImageView android:id="@id/tile_poster_center_icon" android:layout_width="@dimen/tile_poster_center_icon_width" android:layout_height="@dimen/tile_poster_center_icon_height" android:layout_centerInParent="true" />
+        <com.cisco.veop.client.kiott.customviews.DownloadStatusIcon android:id="@id/txt_download_glyph_status" android:visibility="gone" android:layout_width="@dimen/tile_poster_download_icon_width" android:layout_height="@dimen/tile_poster_download_icon_height" android:layout_marginBottom="@dimen/tile_poster_download_icon_bottom" android:layout_alignBottom="@id/tile_poster" android:layout_marginStart="@dimen/tile_poster_download_icon_start" />
+    </RelativeLayout>
+    <ProgressBar android:id="@id/tile_progress_bar" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/tile_progress_bar_height" android:max="100" android:progress="20" android:indeterminate="false" style="@style/ProgressBar" />
+    <include android:id="@id/tile_metadata_container" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/tile_metadata1" />
+</LinearLayout>

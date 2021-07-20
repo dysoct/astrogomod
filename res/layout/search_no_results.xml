@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/main_no_search_layout" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:textSize="16.0sp" android:textColor="#ffbcbcbc" android:id="@id/search_no_result_msg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:text="Sorry, we could not find any results." android:maxLines="1" />
+    <TextView android:textSize="12.0sp" android:textColor="#ff767676" android:id="@id/search_no_result_sub_msg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Try searching for another TV show, movie, actor or genre." android:maxLines="2" app:layout_constraintStart_toStartOf="@id/search_no_result_msg" app:layout_constraintTop_toBottomOf="@id/search_no_result_msg" />
+</androidx.constraintlayout.widget.ConstraintLayout>

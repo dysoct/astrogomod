@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:background="#ff101010" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="vertical" android:id="@id/list_relative_layout" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <androidx.recyclerview.widget.RecyclerView android:id="@id/profiler_recyclerview" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="48.0dip" />
+        <Button android:textColor="#ffffffff" android:id="@id/btn_profile_edit" android:background="#ff262626" android:layout_width="fill_parent" android:layout_height="48.0dip" android:layout_alignBottom="@id/profiler_recyclerview" android:layout_alignParentBottom="true" android:textAllCaps="true" />
+    </RelativeLayout>
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/linear_add_layout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:orientation="vertical" android:id="@id/frame_profile_add" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.cisco.veop.client.userprofile.screens.CircularImageView android:id="@id/img_who_is_watching_add_icon" android:layout_width="0.0dip" android:layout_height="0.0dip" android:tint="#6f000000" />
+            <TextView android:layout_gravity="center" android:id="@id/text_who_is_watching_Add_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </FrameLayout>
+        <TextView android:textColor="#ff8a8a8a" android:id="@id/profiler_name_content_item_text_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="7.0dip" />
+    </LinearLayout>
+</RelativeLayout>

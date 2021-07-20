@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/profile_avatar_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <com.cisco.veop.client.userprofile.screens.CircularImageView
+            android:id="@+id/profile_avatar_content_item_image_view"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="100dp"
+            android:src="@drawable/default_profile_add"
+            android:tint="#6F000000">
+        </com.cisco.veop.client.userprofile.screens.CircularImageView>
+
+        <TextView
+            android:id="@+id/profile_avatar_content_item_header_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/profile_avatar_content_item_image_view"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="7dp"
+            android:textColor="#99ebebeb"
+            android:textSize="18sp">
+        </TextView>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/profile_name_layout"
+        android:layout_below="@id/profile_avatar_layout"
+        android:layout_marginTop="19dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp">
+
+        <TextView
+            android:id="@+id/profile_name_title"
+            android:layout_width="wrap_content"
+            android:layout_height="23dp"
+            android:layout_marginTop="17dp"
+            android:textSize="17sp">
+        </TextView>
+
+        <EditText
+            android:id="@+id/profile_edit_view"
+            android:layout_width="match_parent"
+            android:layout_height="16dp"
+            android:layout_below="@id/profile_name_title"
+            android:windowSoftInputMode="adjustPan"
+            android:singleLine="true"
+            android:layout_marginTop="2dp"
+            android:background="@android:color/transparent"
+            android:textSize="12sp">
+        </EditText>
+
+        <View
+            android:id="@+id/view_divider_profile_name"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_below="@id/profile_edit_view"
+            android:layout_marginTop="14dp"
+            android:background="#33FFFFFF" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/profile_age_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/profile_name_layout"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp">
+
+        <TextView
+            android:id="@+id/profile_age_header"
+            android:layout_width="wrap_content"
+            android:layout_height="23dp"
+            android:layout_marginTop="17dp"
+            android:textSize="17sp">
+        </TextView>
+
+        <TextView
+            android:id="@+id/profile_age_hint"
+            android:layout_width="wrap_content"
+            android:layout_height="16dp"
+            android:layout_below="@id/profile_age_header"
+            android:layout_marginTop="2dp"
+            android:textColor="#91ebebeb"
+            android:textSize="12sp">
+        </TextView>
+
+        <LinearLayout
+            android:id="@+id/profile_age_button_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:gravity="center_vertical"
+            android:layout_alignParentEnd="true">
+
+            <TextView
+                android:id="@+id/profile_age_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:text="Adult"
+                android:layout_marginEnd="4dp"
+                android:textSize="16sp"
+                android:layout_gravity= "bottom">
+            </TextView>
+
+            <TextView
+                android:id="@+id/profile_age_button_arrow"
+                android:layout_alignRight="@+id/profile_age_button"
+                android:layout_width="7dp"
+                android:layout_height="14dp"
+                android:layout_gravity= "bottom">
+            </TextView>
+
+        </LinearLayout>
+
+        <View
+            android:id="@+id/view_divider_age"
+            android:layout_marginTop="14dp"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#33FFFFFF"
+            android:layout_below="@id/profile_age_hint"/>
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/btn_profile_delete"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_alignParentBottom="true"
+        android:background="#262626"
+        android:textAllCaps="true"
+        android:textColor="#ffffff"
+        android:visibility="gone">
+    </Button>
+</RelativeLayout>

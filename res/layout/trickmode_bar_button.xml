@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.cisco.veop.sf_ui.ui_configuration.UiConfigTextView android:id="@id/buttonText" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" />
+    <com.cisco.veop.sf_ui.ui_configuration.UiConfigTextView android:id="@id/tv_trickmode_icon_gylph" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/buttonText" android:layout_centerHorizontal="true" />
+    <com.cisco.veop.sf_ui.ui_configuration.UiConfigTextView android:id="@id/inner_trickmode_icon_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+    <com.cisco.veop.sf_ui.ui_configuration.UiConfigTextView android:id="@id/buttonDescription" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/tv_trickmode_icon_gylph" android:layout_centerHorizontal="true" />
+</merge>

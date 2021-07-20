@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) Synamedia, All rights reserved
+  -->
+
+<!DOCTYPE resources [
+<!ENTITY otherFile SYSTEM "lab_settings.xml">
+<!ENTITY otherFile SYSTEM "localization_keys.xml">
+<!ENTITY otherFile SYSTEM "error_messages.xml">
+]>
+<resources>
+
+    <!-- Preferences (dummies) -->
+    <string name="pref_name_use_dummy_data" translatable="false">pref_use_dummy_data</string>
+    <string name="pref_name_use_dummy_data_for_missing_api" translatable="false">pref_use_dummy_data_for_missing_api</string>
+    <string name="pref_name_use_dummy_data_for_media" translatable="false">pref_use_dummy_data_for_media</string>
+    <string name="pref_name_use_dummy_registration" translatable="false">pref_use_dummy_registration</string>
+    <string name="pref_name_use_dummy_media_provider" translatable="false">pref_use_dummy_media_provider</string>
+
+    <!-- Preferences (VG.DRM) -->
+    <string name="pref_name_drm_gw_host" translatable="false">pref_drm_gw_host</string>
+    <string name="pref_name_drm_gw_port" translatable="false">pref_drm_gw_port</string>
+    <string name="pref_name_drm_gw_edge_host" translatable="false">pref_drm_gw_edge_host</string>
+    <string name="pref_name_drm_gw_edge_port" translatable="false">pref_drm_gw_edge_port</string>
+    <string name="pref_name_drm_gw_vod_edge_host" translatable="false">pref_drm_gw_vod_edge_host</string>
+    <string name="pref_name_drm_gw_vod_edge_port" translatable="false">pref_drm_gw_vod_edge_port</string>
+    <string name="pref_name_drm_gw_connection_monitor_host" translatable="false">pref_drm_gw_connection_monitor_host</string>
+    <string name="pref_name_drm_gw_connection_monitor_port" translatable="false">pref_drm_gw_connection_monitor_port</string>
+    <string name="pref_name_drm_sac4_server_port" translatable="false">pref_drm_sac4_server_port</string>
+    <string name="pref_name_drm_sac4_enabled" translatable="false">pref_drm_sac4_enabled</string>
+
+    <!-- Preferences (Milestones) -->
+    <string name="pref_name_milestones_enabled" translatable="false">pref_milestones_enabled</string>
+    <string name="pref_name_milestones_port" translatable="false">pref_milestones_port</string>
+
+    <!-- Preferences -->
+    <string name="pref_name_app_use_version_check" translatable="false">pref_app_use_version_check</string>
+    <string name="pref_name_app_oauth_hardcoded_config" translatable="false">pref_app_oauth_hardcoded_config</string>
+    <string name="pref_name_app_service_discovery_type" translatable="false">pref_app_service_discovery_type</string>
+    <string name="pref_name_app_service_discovery_params" translatable="false">pref_app_service_discovery_params</string>
+    <string name="pref_name_app_user_sign_in_type" translatable="false">pref_app_user_sign_in_type</string>
+    <string name="pref_name_app_user_sign_in_params" translatable="false">pref_app_user_sign_in_params</string>
+    <string name="pref_name_app_client_authentication_type" translatable="false">pref_app_client_authentication_type</string>
+    <string name="pref_name_app_client_authentication_params" translatable="false">pref_app_client_authentication_params</string>
+    <string name="pref_name_app_logging_use_file_logger" translatable="false">pref_app_logging_use_file_logger</string>
+    <string name="pref_name_app_server_version" translatable="false">pref_app_server_version</string>
+    <string name="pref_name_cdn_app_server_version" translatable="false">pref_cdn_app_server_version</string>
+    <string name="pref_name_cdn_cache_time_alignment_in_minute" translatable="false">pref_cdn_cache_time_alignment_in_minute</string>
+    <string name="pref_name_app_server_base_url" translatable="false">pref_app_server_base_url</string>
+    <string name="pref_name_app_server_xmpp_jid" translatable="false" >pref_app_server_xmpp_jid</string>
+    <string name="pref_name_app_network_avalability_check_host" translatable="false">pref_app_network_avalability_check_host</string>
+    <string name="pref_name_version_check_server_base_url" translatable="false">pref_version_check_server_base_url</string>
+    <string name="pref_name_app_server_version_platform_type" translatable="false">pref_app_server_version_platform_type</string>
+    <string name="pref_name_token_generator_host" translatable="false">pref_token_generator_host</string>
+    <string name="pref_name_analytics_server_url" translatable="false">pref_analytics_server_url</string>
+    <string name="pref_name_token_generator_port" translatable="false">pref_token_generator_port</string>
+    <string name="pref_name_token_generator_path" translatable="false">pref_token_generator_path</string>
+    <string name="pref_name_app_drmTypeConfig" translatable="false">pref_app_drmTypeConfig</string>
+    <string name="pref_name_app_oauth2_server" translatable="false">pref_app_oauth2_server</string>
+    <string name="pref_name_app_oauth2_redirect_uri" translatable="false">pref_app_oauth2_redirect_uri</string>
+    <string name="pref_name_app_Guest_Mode_Scope" translatable="false">pref_app_Guest_Mode_Scope</string>
+    <string name="pref_name_app_oauth2_request_software_id" translatable="false">pref_app_oauth2_request_software_id</string>
+    <string name="pref_name_widevine_license_url" translatable="false">pref_widevine_license_url</string>
+    <string name="pref_name_widevine_license_server_type" translatable="false">pref_app_widevine_license_server_type</string>
+    <string name="pref_name_app_ConvivaCustomerKey" translatable="false">pref_app_ConvivaCustomerKey</string>
+    <string name="pref_name_app_ConvivaGateWayUrl" translatable="false">pref_app_ConvivaGateWayUrl</string>
+    <string name="pref_name_app_ConvivaProductID" translatable="false">pref_app_ConvivaProductID</string>
+    <string name="pref_name_app_ConvivaPlayerName" translatable="false">pref_app_ConvivaPlayerName</string>
+    <string name="pref_name_app_disable_remote_ui" translatable="false">pref_name_app_disable_remote_ui</string>
+    <string name="pref_name_app_enable_OMD_Server" translatable="false">pref_name_app_enable_OMD_Server</string>
+    <string name="pref_name_app_base_url_display_playback_images" translatable="false">pref_app_server_base_url_display_images_playback</string>
+    <string name="pref_name_app_OMD_Server_url" translatable="false">pref_app_OMD_server_url_display_images_playback</string>
+    <string name="pref_name_app_quirks_default_ui_device_language" translatable="false">pref_app_quirks_default_ui_device_language</string>
+    <string name="pref_app_safetynet_api_key" translatable="false">pref_app_safetynet_api_key</string>
+
+    <string name="pref_name_app_use_exoplayer" translatable="false">pref_app_use_exoplayer</string>
+    <string name="pref_name_app_subtitle_type" translatable="false">pref_app_subtitle_type</string>
+    <string name="pref_name_app_default_language" translatable="false">pref_app_default_language</string>
+    <string name="pref_name_app_enable_emergency_alert_system" translatable="false">pref_app_enable_emergency_alert_system</string>
+    <string name="no_epg_grid">No Epg Grid</string>
+    <string name="no_result">No result</string>
+    <string name="pref_analytics_server_url" translatable="false">No Analytics Url</string>
+    <string name="pref_name_app_advanced_purchase_base_url" translatable="false">pref_app_advanced_purchase_base_url</string>
+    <string name="pref_name_app_advanced_purchase_redirect_url" translatable="false">pref_app_advanced_purchase_redirect_url</string>
+    <string name="pref_name_app_adobe_media_type" translatable="false">pref_app_adobe_media_type</string>
+    <string name="pref_name_app_agama_str_server_ip" translatable="false">pref_app_agama_str_server_ip</string>
+    <string name="pref_name_app_agama_str_customer_key" translatable="false">pref_app_agama_str_customer_key</string>
+    <string name="pref_name_app_agama_str_configuration_set_from" translatable="false">pref_app_agama_str_configuration_set_from</string>
+    <string name="pref_name_agama_int_port_number" translatable="false">pref_agama_int_port_number</string>
+    <string name="pref_name_agama_int_id_report_internal" translatable="false">pref_agama_int_id_report_internal</string>
+    <string name="pref_name_agama_int_report_interval" translatable="false">pref_agama_int_report_interval</string>
+    <string name="pref_name_agama_int_app_startup_time" translatable="false">pref_agama_int_app_startup_time</string>
+    <string name="pref_name_app_language_ui_shown_once" translatable="false">pref_name_app_language_ui_shown_once</string>
+
+    <bool name="pref_name_app_enable_OMD_Server" translatable="false">false</bool>
+
+    <string-array name="service_discovery_type" translatable="false">
+        <item>none</item>
+        <item>csds</item>
+    </string-array>
+    <string-array name="user_sign_in_type" translatable="false">
+        <item>none</item>
+        <item>token</item>
+        <item>saml</item>
+    </string-array>
+    <string-array name="subtitle_type" translatable="false">
+        <item>webvtt</item>
+        <item>smptett</item>
+    </string-array>
+    <string-array name="client_authentication_type" translatable="false">
+        <item>none</item>
+        <item>headers</item>
+        <item>session_guard</item>
+    </string-array>
+    <string-array name="log_level_type" translatable="false">
+        <item>VERBOSE</item>
+        <item>DEBUG</item>
+        <item>INFO</item>
+        <item>WARNING</item>
+        <item>ERROR</item>
+    </string-array>
+
+    <!-- string for player state Automation-->
+    <string name="playback_state_playing" translatable="false">Playing</string>
+    <string name="playback_state_paused" translatable="false">Paused</string>
+    <string name="playback_state_stopped" translatable="false">Stopped</string>
+    <string name="playback_state_buffering" translatable="false">Buffering</string>
+    <string name="playback_state_seek_start" translatable="false">seek start</string>
+    <string name="playback_state_seek_end" translatable="false">seek end</string>
+    <string name="playback_state_error" translatable="false">error</string>
+    <string name="playback_state_timeshifting" translatable="false">timeshifting</string>
+    <string name="playback_state_parental_lock" translatable="false">ParentalLocked</string>
+
+    <!-- string for playback type Automation -->
+    <string name="playback_type_linear" translatable="false">linear</string>
+    <string name="playback_type_vod" translatable="false">VOD</string>
+    <string name="playback_type_unknown" translatable="false">unknown</string>
+    <string name="playback_type_pvr" translatable="false">PVR</string>
+    <string name="playback_type_catchup" translatable="false">catchup</string>
+    <string name="playback_type_trailer" translatable="false">trailer</string>
+    <string name="playback_type_live_restart" translatable="false">live_restart</string>
+
+    <!--Screen Names For Automation-->
+    <string name="screen_name_welcome" translatable="false">welcome</string>
+    <string name="screen_name_search" translatable="false">search</string>
+    <string name="screen_name_search_Result" translatable="false">search_result</string>
+    <string name="screen_name_guide" translatable="false">hubGuide</string>
+    <string name="screen_name_settings" translatable="false">settings</string>
+    <string name="screen_name_quick_action_menu" translatable="false">quickActionMenu</string>
+    <string name="screen_name_action_menu" translatable="false">actionMenu</string>
+    <string name="screen_name_full_content" translatable="false">fullContent</string>
+    <string name="screen_name_full_screen" translatable="false">fullScreen</string>
+    <string name="screen_name_channel_page" translatable="false">channelPage</string>
+    <string name="screen_name_series_page" translatable="false">seriesPage</string>
+    <string name="screen_name_timeline" translatable="false">timeline</string>
+    <string name="screen_name_playerbanner" translatable="false">playerBanner</string>
+    <string name="screen_name_hamburger" translatable="false">hamburger</string>
+    <string name="screen_name_pinscreen" translatable="false">parentalPinpop</string>
+    <string name="screen_name_settings_preferences" translatable="false">preferences</string>
+    <string name="screen_name_settings_device_management" translatable="false">deviceManagement</string>
+    <string name="screen_name_settings_my_devices" translatable="false">myDevices</string>
+    <string name="screen_name_settings_my_account" translatable="false">myAccount</string>
+    <string name="screen_name_settings_ui_language" translatable="false">uiLanguage</string>
+    <string name="screen_name_settings_terms_and_conditions" translatable="false">tnc</string>
+    <string name="screen_name_settings_faq" translatable="false">faq</string>
+    <string name="screen_loading_suffix" translatable="false">_LOADING</string>
+    <string name="screen_name_guest_mode" translatable="false">guest_</string>
+    <string name="screen_name_login_page" translatable="false">loginPage</string>
+
+    <string name="ia_status_remote_true" translatable="false">remote_true</string>
+    <string name="ia_status_remote_false" translatable="false">remote_false</string>
+
+    <string name="play_pause_lock_icon_status_play" translatable="false">play</string>
+    <string name="play_pause_lock_icon_status_pause" translatable="false">pause</string>
+    <string name="play_pause_lock_icon_status_lock" translatable="false">lock</string>
+
+    <string name="language_name_unavailable" translatable="false">None</string>
+    <string name="pref_name_app_clear_content_playback_url" translatable="false">pref_app_clear_content_playback_url</string>
+    <string name="swimlane_title">Swimlane Title</string>
+
+    <string name="pref_app_sensor_site_name_test_build" translatable="false">pref_app_sensor_site_name_test_build</string>
+    <string name="pref_app_sensor_site_name_prod_build" translatable="false">pref_app_sensor_site_name_prod_build</string>
+    <string name="pref_app_sensor_app_name" translatable="false">pref_app_sensor_app_name</string>
+
+    <string name="pref_name_youbora_account_code" translatable="false">pref_app_youbora_account_code</string>
+
+</resources>
